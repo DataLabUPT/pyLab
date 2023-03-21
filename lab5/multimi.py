@@ -1,14 +1,13 @@
 """Acest modul contine cod legat de multimi pentru
 
 Limbaje de programare 2, Laborator 5, versiunea 2
-de Bogdan Dragulescu
-https://ti.etcti.upt.ro/cursuri/limbaje-de-programare-2/
+de Bogdan Dragulescu, Razvan Vilceanu
+https://datalab.upt.ro/cursuri/limbaje-de-programare-3/
 
-Copyright 2019 Bogdan Dragulescu
+Copyright 2023 Bogdan Dragulescu
 
 Licenta: http://creativecommons.org/licenses/by/4.0/
 """
-
 
 from utilfunc import p
 

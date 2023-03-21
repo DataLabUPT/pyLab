@@ -3,7 +3,6 @@
 Rez: în funcție de rezultatele de la TODO 6, de exemplu - minim 5, maxim 9"""
 
 
-
 """
 2. Printați notele unice din dicționarul catalog.
 Rez: în funcție de rezultatele de la TODO 6, de exemplu - 5, 6, 7, 8, 9, 10"""
