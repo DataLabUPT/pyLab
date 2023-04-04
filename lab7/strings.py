@@ -2,7 +2,7 @@
 
 Limbaje de programare 3, Laborator 6, versiunea 2
 de Bogdan Dragulescu
-https://ti.etcti.upt.ro/cursuri/limbaje-de-programare-3/
+https://datalab.upt.ro/cursuri/limbaje-de-programare-3/
 
 Copyright 2023 Bogdan Dragulescu, Razvan Vilceanu
 
