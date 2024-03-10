@@ -1,10 +1,14 @@
 """Acest modul contine cod legat de liste pentru
-Limbaje de programare 2, Laborator 4, vesiunea 1
-de Bogdan Dragulescu
-https://ti.etcti.upt.ro/cursuri/limbaje-de-programare-2/
-Copyright 2018 Bogdan Dragulescu
+
+Limbaje de programare 3, Laborator 4, vesiunea 1
+de Bogdan Dragulescu, Razvan Vilceanu
+https://datalab.upt.ro/cursuri/limbaje-de-programare-3/
+
+Copyright 2024 Bogdan Dragulescu
+
 Licenta: http://creativecommons.org/licenses/by/4.0/
 """
+
 
 from utilfunc import p
 
