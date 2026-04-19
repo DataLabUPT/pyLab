@@ -1,0 +1,3081 @@
+From julien@editx.eu  Thu Mar  1 08:36:42 2018
+From: julien@editx.eu (Julien Carlier)
+Date: Thu, 1 Mar 2018 14:36:42 +0100
+Subject: [Tutor] Python Challenge Online - 30 Questions
+Message-ID: <CAEepouQxLtThOiM+U3uwRTQ5O5KPy8f1cQv_hyXKD+CjNsRS3w@mail.gmail.com>
+
+Hello,
+
+Cisco & Dimension Data organize a Python Challenge on EDITx. It is a good
+way to test your skills & have fun.
+
+->
+https://editx.eu/it-challenge/python-challenge-2018-cisco-and-dimension-data
+
+Rules are simple: 15 minutes online, 30 questions & 3 jokers.
+
+Everyone is allowed to participate but only belgian residents can win the
+prizes.
+
+Do not hesitate to share it with people that might be interested.
+
+Feedbacks are welcome :)
+
+Regards,
+
+Julien
+
+-- 
+
+Frankenstraat - Rue des Francs 79
+1000 Brussels
+
+From mail@timgolden.me.uk  Thu Mar  1 09:27:40 2018
+From: mail@timgolden.me.uk (Tim Golden)
+Date: Thu, 1 Mar 2018 14:27:40 +0000
+Subject: [Tutor] Python Challenge Online - 30 Questions
+In-Reply-To: <CAEepouQxLtThOiM+U3uwRTQ5O5KPy8f1cQv_hyXKD+CjNsRS3w@mail.gmail.com>
+References: <CAEepouQxLtThOiM+U3uwRTQ5O5KPy8f1cQv_hyXKD+CjNsRS3w@mail.gmail.com>
+Message-ID: <df188322-21ce-0410-3dff-b9e8b605539b@timgolden.me.uk>
+
+On 01/03/2018 13:36, Julien Carlier wrote:
+> Cisco & Dimension Data organize a Python Challenge on EDITx. It is a good
+> way to test your skills & have fun.
+
+[... snip ...]
+
+You've just cross-posted this to several Python mailing lists / 
+newsgroups, some of them certainly irrelevant. This is not considered 
+good form.
+
+TJG
+
+From mail@timgolden.me.uk  Thu Mar  1 09:49:24 2018
+From: mail@timgolden.me.uk (Tim Golden)
+Date: Thu, 1 Mar 2018 14:49:24 +0000
+Subject: [Tutor] Python Challenge Online - 30 Questions
+In-Reply-To: <CAEepouS1HevVmTHOyarZUCHPHAWZ1PrMyme99ps75yCu6t9W8Q@mail.gmail.com>
+References: <CAEepouQxLtThOiM+U3uwRTQ5O5KPy8f1cQv_hyXKD+CjNsRS3w@mail.gmail.com>
+ <df188322-21ce-0410-3dff-b9e8b605539b@timgolden.me.uk>
+ <CAEepouS1HevVmTHOyarZUCHPHAWZ1PrMyme99ps75yCu6t9W8Q@mail.gmail.com>
+Message-ID: <7dcf586a-5fb3-0075-cc1a-1ccaa875538d@timgolden.me.uk>
+
+On 01/03/2018 14:36, Julien Carlier wrote:
+> Hi Tim,
+> 
+> I didn't send this message to several groups. I sended this message to 
+> 20 people from the same group.
+> 
+> I will take care to choose relevant groups.
+> 
+> What is considered good form?
+> 
+> Regards,
+> 
+> Julien
+
+Replied off-list
+
+TJG
+
+From julien@editx.eu  Thu Mar  1 09:36:17 2018
+From: julien@editx.eu (Julien Carlier)
+Date: Thu, 1 Mar 2018 15:36:17 +0100
+Subject: [Tutor] Python Challenge Online - 30 Questions
+In-Reply-To: <df188322-21ce-0410-3dff-b9e8b605539b@timgolden.me.uk>
+References: <CAEepouQxLtThOiM+U3uwRTQ5O5KPy8f1cQv_hyXKD+CjNsRS3w@mail.gmail.com>
+ <df188322-21ce-0410-3dff-b9e8b605539b@timgolden.me.uk>
+Message-ID: <CAEepouS1HevVmTHOyarZUCHPHAWZ1PrMyme99ps75yCu6t9W8Q@mail.gmail.com>
+
+Hi Tim,
+
+I didn't send this message to several groups. I sended this message to 20
+people from the same group.
+
+I will take care to choose relevant groups.
+
+What is considered good form?
+
+Regards,
+
+Julien
+
+
+
+
+2018-03-01 15:27 GMT+01:00 Tim Golden <mail@timgolden.me.uk>:
+
+> On 01/03/2018 13:36, Julien Carlier wrote:
+>
+>> Cisco & Dimension Data organize a Python Challenge on EDITx. It is a good
+>> way to test your skills & have fun.
+>>
+>
+> [... snip ...]
+>
+> You've just cross-posted this to several Python mailing lists /
+> newsgroups, some of them certainly irrelevant. This is not considered good
+> form.
+>
+> TJG
+>
+
+
+
+-- 
+Tel. BE: +32 (0)2 240 57 80
+
+GSM: +32 (0)472 37 26 63
+
+Frankenstraat - Rue des Francs 79
+1040 Etterbeek
+
+From bhatt.nirmal@gmail.com  Thu Mar  1 21:40:08 2018
+From: bhatt.nirmal@gmail.com (Nirmal Bhatt)
+Date: Thu, 1 Mar 2018 21:40:08 -0500
+Subject: [Tutor] Python distribution file error
+Message-ID: <CAEAFWh4xdu7cK1cyQ8bspK-KuayOFfynYX_PsFMHHw7b7GSG6Q@mail.gmail.com>
+
+Hi,
+I am trying to deploy the distribution file and getting the attached error.
+
+Requesting the help to resolve the error.
+
+Thanks in advance.
+
+regards
+Nirmal
+
+From alan.gauld@yahoo.co.uk  Fri Mar  2 03:52:06 2018
+From: alan.gauld@yahoo.co.uk (Alan Gauld)
+Date: Fri, 2 Mar 2018 08:52:06 +0000
+Subject: [Tutor] Python distribution file error
+In-Reply-To: <CAEAFWh4xdu7cK1cyQ8bspK-KuayOFfynYX_PsFMHHw7b7GSG6Q@mail.gmail.com>
+References: <CAEAFWh4xdu7cK1cyQ8bspK-KuayOFfynYX_PsFMHHw7b7GSG6Q@mail.gmail.com>
+Message-ID: <p7b37j$miq$1@blaine.gmane.org>
+
+On 02/03/18 02:40, Nirmal Bhatt wrote:
+> Hi,
+> I am trying to deploy the distribution file 
+
+What do you mean by "the distribution file"?
+How are you creating this file?
+How are you "deploying" it?
+
+> and getting the attached error.
+
+The server strips out attachments so we cannot
+see it, please just paste the (full) text into the
+mail message.
+
+> Requesting the help to resolve the error.
+You need to provide us with more specific information
+about what you are doing and how.
+
+-- 
+Alan G
+Author of the Learn to Program web site
+http://www.alan-g.me.uk/
+http://www.amazon.com/author/alan_gauld
+Follow my photo-blog on Flickr at:
+http://www.flickr.com/photos/alangauldphotos
+
+
+
+From cosmoalex26@gmail.com  Fri Mar  2 15:42:18 2018
+From: cosmoalex26@gmail.com (Alessandro Parisi)
+Date: Fri, 2 Mar 2018 21:42:18 +0100
+Subject: [Tutor] shooting method in python code
+Message-ID: <117EBFC8-1871-48C5-9F21-135D2C75E174@gmail.com>
+
+Hi, My name is Alessandro Parisi, I would need to download this code to understand how it works
+
+From rls4jc@gmail.com  Fri Mar  2 16:05:42 2018
+From: rls4jc@gmail.com (Roger Lea Scherer)
+Date: Fri, 2 Mar 2018 13:05:42 -0800
+Subject: [Tutor] Another question, dictionaries
+Message-ID: <CAPvEsMx-C0nVM4XS7xL7T_96OszPNUzFJD5-mDH1_4F1O43cUA@mail.gmail.com>
+
+I'm trying to finish chapter 5 in my book and it has to do with
+dictionaries and creating simple games. We need a pool of points and the
+ability to exchange point between the pool and each of the, what I call,
+attributes of Strength, Health, Wisdom, and Dexterity. I got only to the
+first option and I'm stuck on how to get the points to change
+"permanently". The program will run well for option 1 (I haven't got to the
+rest of the options), but the next time I run the program it goes back to
+the original configuration. Did I do everything right, but I just need to
+write to a file, and that's what the problem is? or what?
+
+I've reread the chapter, I've gone on stackoverflow and thegeekstuff.com,
+I've thought about it for@least a day and I just can't figure out what
+the problem is. Please help?
+
+# Character creator program for role playing
+
+pool = 30
+
+attributes = {"Strength": 0, "Health": 0, "Wisdom": 0, "Dexterity": 0}
+
+print("You have", pool, "points")
+print("""
+    You can apply them to your Strength, Health, Wisdom, or Dexterity.
+
+    Press:
+
+    0 to Quit
+    1 to apply points to Strength
+    2 to apply points to Health
+    3 to apply points to Wisdom
+    4 to apply points to Dexterity
+    5 to apply points from Strength to your pool
+    6 to apply points from Health to your pool
+    7 to apply points from Wisdom to your pool
+    8 to apply points from Dexterity to your pool
+    """)
+
+choice = input("Choice: ")
+print(attributes.get("Strength"))
+
+if choice == "0":
+    print("Good-bye.")
+    input("\n\nPress enter to exit.")
+
+elif choice == "1":
+    strengthChoice = input("How many points would you like to transfer from
+pool to Strength?: ")
+    print(strengthChoice)
+    attributes["Strength"] += int(strengthChoice)
+    print(attributes.get("Strength"))
+    pool -= int(strengthChoice)
+    print(pool)
+
+From alan.gauld@yahoo.co.uk  Fri Mar  2 18:06:54 2018
+From: alan.gauld@yahoo.co.uk (Alan Gauld)
+Date: Fri, 2 Mar 2018 23:06:54 +0000
+Subject: [Tutor] shooting method in python code
+In-Reply-To: <117EBFC8-1871-48C5-9F21-135D2C75E174@gmail.com>
+References: <117EBFC8-1871-48C5-9F21-135D2C75E174@gmail.com>
+Message-ID: <p7clab$14g$1@blaine.gmane.org>
+
+On 02/03/18 20:42, Alessandro Parisi wrote:
+> Hi, My name is Alessandro Parisi, 
+
+Hi.
+
+> I would need to download this code to understand how it works
+
+What code?
+Do you have a URL? Or a link of some kind?
+
+We are not mind readers.
+
+-- 
+Alan G
+Author of the Learn to Program web site
+http://www.alan-g.me.uk/
+http://www.amazon.com/author/alan_gauld
+Follow my photo-blog on Flickr at:
+http://www.flickr.com/photos/alangauldphotos
+
+
+
+From alan.gauld@yahoo.co.uk  Fri Mar  2 18:24:04 2018
+From: alan.gauld@yahoo.co.uk (Alan Gauld)
+Date: Fri, 2 Mar 2018 23:24:04 +0000
+Subject: [Tutor] Another question, dictionaries
+In-Reply-To: <CAPvEsMx-C0nVM4XS7xL7T_96OszPNUzFJD5-mDH1_4F1O43cUA@mail.gmail.com>
+References: <CAPvEsMx-C0nVM4XS7xL7T_96OszPNUzFJD5-mDH1_4F1O43cUA@mail.gmail.com>
+Message-ID: <p7cmah$96d$1@blaine.gmane.org>
+
+On 02/03/18 21:05, Roger Lea Scherer wrote:
+> ability to exchange point between the pool and each of the, what I call,
+> attributes of Strength, Health, Wisdom, and Dexterity. I got only to the
+> first option and I'm stuck on how to get the points to change
+> "permanently". The program will run well for option 1 (I haven't got to the
+> rest of the options), but the next time I run the program it goes back to
+> the original configuration. Did I do everything right, but I just need to
+> write to a file, and that's what the problem is? or what?
+
+You are correct on all counts.
+Every time you run the program it is reinitialised
+to the hard coded values.
+
+To make the changes stick you would need to store
+them somewhere and then read them@startup.
+There are many ways to do that, some work better
+than others with dictionaries: the shelve module
+or the CSV module or the JSON module are all fairly
+easy to use.
+
+However, I suspect the book's author is only looking
+for you to play the game once and then forget the
+values (or start afresh) She/he will likely cover
+files later.
+
+To that end you need to look@wrapping your menu
+selection in a loop (probably a while) and keep on
+applying the changes until you are done.
+
+-- 
+Alan G
+Author of the Learn to Program web site
+http://www.alan-g.me.uk/
+http://www.amazon.com/author/alan_gauld
+Follow my photo-blog on Flickr at:
+http://www.flickr.com/photos/alangauldphotos
+
+
+
+From mamathanaik64@gmail.com  Sat Mar  3 05:01:59 2018
+From: mamathanaik64@gmail.com (mamatha n)
+Date: Sat, 3 Mar 2018 15:31:59 +0530
+Subject: [Tutor] face recogniztion using raspberry pi
+Message-ID: <CAGZNpHpmjKrk6wQ-448XEE6LYsKO=1TNQLF=WmPzEeDey_oNfA@mail.gmail.com>
+
+Hello friends.
+thise is my code
+i want to compare to image, and i need to get result percentage formate dis
+is very urgent. any one tell me how can i compare
+
+From mats@wichmann.us  Sat Mar  3 10:46:35 2018
+From: mats@wichmann.us (Mats Wichmann)
+Date: Sat, 3 Mar 2018 08:46:35 -0700
+Subject: [Tutor] face recogniztion using raspberry pi
+In-Reply-To: <CAGZNpHpmjKrk6wQ-448XEE6LYsKO=1TNQLF=WmPzEeDey_oNfA@mail.gmail.com>
+References: <CAGZNpHpmjKrk6wQ-448XEE6LYsKO=1TNQLF=WmPzEeDey_oNfA@mail.gmail.com>
+Message-ID: <d87d7807-892f-b6ce-917e-00a9d3a2faa5@wichmann.us>
+
+On 03/03/2018 03:01 AM, mamatha n wrote:
+> Hello friends.
+> thise is my code
+> i want to compare to image, and i need to get result percentage formate dis
+> is very urgent. any one tell me how can i compare
+
+Sorry, there's nothing there ("my code"), attachments don't usually make
+it through the list server.
+
+You may want to send again, but you may also want to look into groups
+with more domain expertise - the kind of image processing used for
+facial recognition is pretty specialized and I'm not expecting you'll
+find a lot of experts here.  Are you using OpenCV?  There it is expected
+that most of the work is "done for you", but you still need to
+understand what is going on in order to be able to proceed.
+
+
+
+
+
+From sjeik_appie@hotmail.com  Tue Mar  6 17:17:20 2018
+From: sjeik_appie@hotmail.com (Albert-Jan Roskam)
+Date: Tue, 6 Mar 2018 22:17:20 +0000
+Subject: [Tutor] Regex not working as desired
+Message-ID: <HE1PR1001MB130806CF5F335EC55ECD37BA83D90@HE1PR1001MB1308.EURPRD10.PROD.OUTLOOK.COM>
+
+
+On Feb 27, 2018 09:50, Alan Gauld via Tutor <tutor@python.org> wrote:
+>
+> On 27/02/18 05:13, Cameron Simpson wrote:
+>
+> > hard to debug when you do. That's not to say you shouldn't use them, but many
+> > people use them for far too much.
+>
+>
+> > Finally, you could also consider not using a regexp for this particular task.
+> > Python's "int" class can be called with a string, and will raise an exception
+>
+> And, as another alternative, you can use all() with a
+> generator expression:
+>
+> >>> all(c.isdigit() for c in '1234')
+> True
+> >>> all(c.isdigit() for c in '12c4')
+> False
+
+I never understood why this is syntactically correct. It's like two parentheses are missing.
+
+This I understand:
+all((c.isdigit() for c in '12c4'))
+Or this:
+all([c.isdigit() for c in '12c4'])
+Or this:
+all((True, False))
+
+But the way you wrote it, the generator expression just "floats" in between the parentheses that are part of the all() function. Is this something special about all() and any()?
+
+From steve@pearwood.info  Tue Mar  6 17:45:27 2018
+From: steve@pearwood.info (Steven D'Aprano)
+Date: Wed, 7 Mar 2018 09:45:27 +1100
+Subject: [Tutor] Regex not working as desired
+In-Reply-To: <HE1PR1001MB130806CF5F335EC55ECD37BA83D90@HE1PR1001MB1308.EURPRD10.PROD.OUTLOOK.COM>
+References: <HE1PR1001MB130806CF5F335EC55ECD37BA83D90@HE1PR1001MB1308.EURPRD10.PROD.OUTLOOK.COM>
+Message-ID: <20180306224527.GH18868@ando.pearwood.info>
+
+On Tue, Mar 06, 2018@10:17:20PM +0000, Albert-Jan Roskam wrote:
+
+> > >>> all(c.isdigit() for c in '12c4')
+> > False
+> 
+> I never understood why this is syntactically correct. It's like two parentheses are missing.
+> 
+> This I understand:
+> all((c.isdigit() for c in '12c4'))
+> Or this:
+> all([c.isdigit() for c in '12c4'])
+> Or this:
+> all((True, False))
+> 
+> But the way you wrote it, the generator expression just "floats" in 
+> between the parentheses that are part of the all() function. Is this 
+> something special about all() and any()? 
+
+No, it is something special about generator expressions. The syntax for 
+them is theoretically:
+
+    expression for x in iterable
+
+but parentheses are required to make it unambiguous. If they are already 
+inside parentheses, as in a function call:
+
+   spam(expression for x in iterable)
+
+the function call parens are sufficient to make it unambiguous and so 
+there is no need to add an extra pair.
+
+However, if you have two arguments, or some other compound expression, 
+you need to use disambiguation parens:
+
+    spam(999, (expression for x in iterable))
+
+
+-- 
+Steve
+
+From rls4jc@gmail.com  Tue Mar  6 13:12:59 2018
+From: rls4jc@gmail.com (Roger Lea Scherer)
+Date: Tue, 6 Mar 2018 10:12:59 -0800
+Subject: [Tutor] Turtle Issues
+Message-ID: <CAPvEsMz1TjELXcYDt5vz=-cRDxmAtW23M1N5Oyk_w6iamh=2QA@mail.gmail.com>
+
+I know I don't have to apologize, but I am so independent I hate asking for
+help and you guys and gals have been so helpful that now that I'm stuck
+again I'm sorry I have to. I've looked on StackOverflow and followed their
+advice (which I can't make work) and went to the python/turtle
+documentation which I tried to follow, but can't seem to make work either.
+
+All I want to do (famous last words) is randomize the color of the pen when
+the ciphers are created, but when the ciphers are created, the color
+remains black. The comments below colormode are things I've tried as well.
+I include all the code in case you want to run the program.
+
+So if you could please help like you do, that would be great and greatly
+appreciated. Thank you.
+
+----------------------------
+
+from turtle import *
+import re
+import random
+
+
+# use turtle to draw ciphers of the Cistercian monks
+
+digits = input("Please enter an integer less than 10,000 greater than 0:  ")
+
+r = random.randrange(0, 255)
+g = random.randrange(0, 255)
+b = random.randrange(0, 255)
+
+# ensure input is only digits
+p = re.compile(r'^\d+$')
+m = p.match(digits)
+if m:
+    print(digits)
+    m = digits
+#        digits = input("Please enter an integer less than 10,000 greater
+than 0:  ")
+else:
+    print("No match")
+
+colormode(255)
+##reddish = random.randrange(255)
+##greenish = random.randrange(255)
+##bluish = random.randrange(255)
+##pencolor(reddish, greenish, bluish)
+# pencolor(random.randrange(255), random.randrange(255),
+random.randrange(255))
+pencolor(r, g, b)
+
+mode("logo")   # resets turtle heading to north
+speed(0)
+ht()
+fd(100)
+
+
+# if statements for the ones position
+if digits[-1] == "1":
+    pu()
+    goto(0, 100)
+    seth(90)
+    pd()
+    fd(35)
+
+if digits[-1] == "2":
+    pu()
+    goto(0, 65)
+    seth(90)
+    pd()
+    fd(35)
+
+if digits[-1] == "3":
+    pu()
+    goto(0, 100)
+    seth(135)
+    pd()
+    fd(50)
+
+if digits[-1] == "4":
+    pu()
+    goto(0, 65)
+    seth(45)
+    pd()
+    fd(50)
+
+if digits[-1] == "5":
+    pu()
+    goto(0, 100)
+    seth(90)
+    pd()
+    fd(35)
+    rt(135)
+    fd(50)
+
+if digits[-1] == "6":
+    pu()
+    goto(30, 100)
+    seth(180)
+    pd()
+    fd(35)
+
+if digits[-1] == "7":
+    pu()
+    goto(0, 100)
+    seth(90)
+    pd()
+    fd(35)
+    rt(90)
+    fd(35)
+
+if digits[-1] == "8":
+    pu()
+    goto(0, 65)
+    seth(90)
+    pd()
+    fd(35)
+    lt(90)
+    fd(35)
+
+if digits[-1] == "9":
+    pu()
+    goto(0, 100)
+    seth(90)
+    pd()
+    fd(35)
+    rt(90)
+    fd(35)
+    rt(90)
+    fd(35)
+
+# if statements for the tens position
+if digits[-2:-1] == "1":
+    pu()
+    goto(0, 100)
+    seth(-90)
+    pd()
+    fd(35)
+
+if digits[-2:-1] == "2":
+    pu()
+    goto(0, 65)
+    seth(-90)
+    pd()
+    fd(35)
+
+if digits[-2:-1] == "3":
+    pu()
+    goto(0, 100)
+    seth(-135)
+    pd()
+    fd(50)
+
+if digits[-2:-1] == "4":
+    pu()
+    goto(0, 65)
+    seth(-45)
+    pd()
+    fd(50)
+
+if digits[-2:-1] == "5":
+    pu()
+    goto(0, 100)
+    seth(-90)
+    pd()
+    fd(35)
+    lt(135)
+    fd(50)
+
+if digits[-2:-1] == "6":
+    pu()
+    goto(-30, 100)
+    seth(180)
+    pd()
+    fd(35)
+
+if digits[-2:-1] == "7":
+    pu()
+    goto(0, 100)
+    seth(-90)
+    pd()
+    fd(35)
+    lt(90)
+    fd(35)
+
+if digits[-2:-1] == "8":
+    pu()
+    goto(0, 65)
+    seth(-90)
+    pd()
+    fd(35)
+    rt(90)
+    fd(35)
+
+if digits[-2:-1] == "9":
+    pu()
+    goto(0, 100)
+    seth(-90)
+    pd()
+    fd(35)
+    lt(90)
+    fd(35)
+    lt(90)
+    fd(35)
+
+# if statments for the hundreds position
+if digits[-3:-2] == "1":
+    pu()
+    goto(0, 0)
+    seth(90)
+    pd()
+    fd(35)
+
+if digits[-3:-2] == "2":
+    pu()
+    goto(0, 35)
+    seth(90)
+    pd()
+    fd(35)
+
+if digits[-3:-2] == "3":
+    pu()
+    goto(0, 0)
+    seth(45)
+    pd()
+    fd(50)
+
+if digits[-3:-2] == "4":
+    pu()
+    goto(0, 35)
+    seth(135)
+    pd()
+    fd(50)
+
+if digits[-3:-2] == "5":
+    pu()
+    goto(0, 0)
+    seth(90)
+    pd()
+    fd(35)
+    lt(135)
+    fd(50)
+
+if digits[-3:-2] == "6":
+    pu()
+    goto(30, 0)
+    seth(0)
+    pd()
+    fd(35)
+
+if digits[-3:-2] == "7":
+    pu()
+    goto(0, 0)
+    seth(90)
+    pd()
+    fd(35)
+    lt(90)
+    fd(35)
+
+if digits[-3:-2] == "8":
+    pu()
+    goto(0, 35)
+    seth(90)
+    pd()
+    fd(35)
+    rt(90)
+    fd(35)
+
+if digits[-3:-2] == "9":
+    pu()
+    goto(0, 0)
+    seth(90)
+    pd()
+    fd(35)
+    lt(90)
+    fd(35)
+    lt(90)
+    fd(35)
+
+# if statments for the thousands position
+if digits[-4:-3] == "1":
+    pu()
+    goto(0, 0)
+    seth(-90)
+    pd()
+    fd(35)
+
+if digits[-4:-3] == "2":
+    pu()
+    goto(0, 35)
+    seth(-90)
+    pd()
+    fd(35)
+
+if digits[-4:-3] == "3":
+    pu()
+    goto(0, 0)
+    seth(-35)
+    pd()
+    fd(50)
+
+if digits[-4:-3] == "4":
+    pu()
+    goto(0, 35)
+    seth(-135)
+    pd()
+    fd(50)
+
+if digits[-4:-3] == "5":
+    pu()
+    goto(0, 0)
+    seth(-90)
+    pd()
+    fd(35)
+    rt(135)
+    fd(50)
+
+if digits[-4:-3] == "6":
+    pu()
+    goto(-30, 0)
+    seth(0)
+    pd()
+    fd(35)
+
+if digits[-4:-3] == "7":
+    pu()
+    goto(0, 0)
+    seth(-90)
+    pd()
+    fd(35)
+    rt(90)
+    fd(35)
+
+if digits[-4:-3] == "8":
+    pu()
+    goto(0, 35)
+    seth(-90)
+    pd()
+    fd(35)
+    lt(90)
+    fd(35)
+
+if digits[-4:-3] == "9":
+    pu()
+    goto(0, 0)
+    seth(-90)
+    pd()
+    fd(35)
+    rt(90)
+    fd(35)
+    rt(90)
+    fd(35)
+
+
+<https://www.avast.com/sig-email?utm_medium=email&utm_source=link&utm_campaign=sig-email&utm_content=webmail&utm_term=icon>
+Virus-free.
+www.avast.com
+<https://www.avast.com/sig-email?utm_medium=email&utm_source=link&utm_campaign=sig-email&utm_content=webmail&utm_term=link>
+<#DAB4FAD8-2DD7-40BB-A1B8-4E2AA1F9FDF2>
+
+From alan.gauld@yahoo.co.uk  Tue Mar  6 18:19:56 2018
+From: alan.gauld@yahoo.co.uk (Alan Gauld)
+Date: Tue, 6 Mar 2018 23:19:56 +0000
+Subject: [Tutor] Regex not working as desired
+In-Reply-To: <HE1PR1001MB130806CF5F335EC55ECD37BA83D90@HE1PR1001MB1308.EURPRD10.PROD.OUTLOOK.COM>
+References: <HE1PR1001MB130806CF5F335EC55ECD37BA83D90@HE1PR1001MB1308.EURPRD10.PROD.OUTLOOK.COM>
+Message-ID: <p7n7io$241$1@blaine.gmane.org>
+
+On 06/03/18 22:17, Albert-Jan Roskam wrote:
+> But the way you wrote it, the generator expression just "floats" 
+
+Any expression can be used where a value is expected provided
+that e3xpression produces a value of the required type.
+
+A generator expression effectively produces a sequence and
+the type of sequence is defined by the type of parentheses
+used.
+
+"123" -> a string
+[1,2,3] -> a list
+(1,2,3) -> a tuple
+{1,2,3} -> a set
+
+So when a function requires an iterable sequence you just
+provide the expression(any expression) that results in an
+iterable.
+
+all(range(5))  # range 5 produces a range object which is iterable
+all(n for n in [0,1,2,3,4])  # generator "equivalent" to the range
+
+Similar things happen with tuples where the parens are actually
+optional:
+
+1,2,3   # a tuple of 3 numbers
+(1,2,3) # the same tuple with parens to make it more obvious
+
+HTH
+-- 
+Alan G
+Author of the Learn to Program web site
+http://www.alan-g.me.uk/
+http://www.amazon.com/author/alan_gauld
+Follow my photo-blog on Flickr at:
+http://www.flickr.com/photos/alangauldphotos
+
+
+
+From alan.gauld@yahoo.co.uk  Tue Mar  6 19:36:56 2018
+From: alan.gauld@yahoo.co.uk (Alan Gauld)
+Date: Wed, 7 Mar 2018 00:36:56 +0000
+Subject: [Tutor] Turtle Issues
+In-Reply-To: <CAPvEsMz1TjELXcYDt5vz=-cRDxmAtW23M1N5Oyk_w6iamh=2QA@mail.gmail.com>
+References: <CAPvEsMz1TjELXcYDt5vz=-cRDxmAtW23M1N5Oyk_w6iamh=2QA@mail.gmail.com>
+Message-ID: <p7nc35$tui$1@blaine.gmane.org>
+
+On 06/03/18 18:12, Roger Lea Scherer wrote:
+> I know I don't have to apologize, but I am so independent I hate asking for
+> help and you guys and gals have been so helpful that now that I'm stuck
+> again I'm sorry I have to. 
+
+Thats not a problem and, in programming, is usually seen as
+a strength not a weakness. Nobody likes to debug somebody
+else's bad code, it's much better to get advice and write
+good code first time! Independence is the fault, not
+collaboration.
+
+> All I want to do (famous last words) is randomize the color of the pen when
+> the ciphers are created, but when the ciphers are created, the color
+> remains black. 
+
+You do seem to have a liking for writing an awful lot of unnecessary
+code. Have you come across the concept of functions? They allow you
+to take common code and encapsulate it in a single call.
+Thus:
+
+> if digits[-1] == "1":
+>     pu()
+>     goto(0, 100)
+>     seth(90)
+>     pd()
+>     fd(35)
+>
+> if digits[-1] == "2":
+>     pu()
+>     goto(0, 65)
+>     seth(90)
+>     pd()
+>     fd(35)
+
+Becomes
+
+def f(y):
+    pu()
+    goto(0, y)
+    seth(90)
+    pd()
+    fd(35)
+
+if digits[-1] == "1":
+   f(100)
+if digits[-1] == "2":
+   f(65)
+
+And ideally you use a more meaningful name than 'f'!
+Maybe reposition() or similar?
+
+The principle is known as DRY in software engineering:
+- Don't Repeat Yourself
+
+Also we already (I think it was for you) pointed
+out that using an int() conversion with try/except was
+easier and more reliable that a regex.
+Its also much less code. So unless you really enjoy
+practising your typing, it's easier to do something like:
+
+d = input("Enter an integer less than 10,000 greater than 0:  ")
+try: int(d)
+except: # they are not digits so deal with it
+
+# now use d knowing it is all digits.
+
+> The comments below colormode are things I've tried as well.
+> I include all the code in case you want to run the program.
+> 
+> So if you could please help like you do, that would be great and greatly
+> appreciated. Thank you.
+> 
+> ----------------------------
+> 
+> from turtle import *
+> import re
+> import random
+> 
+> 
+> # use turtle to draw ciphers of the Cistercian monks
+> 
+> digits = input("Please enter an integer less than 10,000 greater than 0:  ")
+> 
+> r = random.randrange(0, 255)
+> g = random.randrange(0, 255)
+> b = random.randrange(0, 255)
+
+You set these values once. And never change them.
+
+> colormode(255)
+
+> ##reddish = random.randrange(255)
+> ##greenish = random.randrange(255)
+> ##bluish = random.randrange(255)
+> ##pencolor(reddish, greenish, bluish)
+
+You don't draw anything so how do you know what colour is set?
+You have to draw a line to see the color.
+
+> # pencolor(random.randrange(255), random.randrange(255),
+> random.randrange(255))
+> pencolor(r, g, b)
+
+Same goes for these.
+
+> mode("logo")   # resets turtle heading to north
+> speed(0)
+> ht()
+> fd(100)
+
+Now you draw something, what color is it?
+(although you might need a pd() to force the pen on to the canvas)
+
+> # if statements for the ones position
+> if digits[-1] == "1":
+
+See the comments about functions above...
+And only do the extraction once:
+
+last = d[-1]
+if last == "1":
+   f(...)
+elif last == "2):
+   f(...)
+elif last = "3"
+etc...
+
+> if digits[-1] == "3":
+>     pu()
+>     goto(0, 100)
+>     seth(135)
+>     pd()
+>     fd(50)
+
+I see a new value in the last line so maybe f becomes
+
+def f(y,d):
+     pu()
+     goto(0, y)
+     seth(135)
+     pd()
+     fd(d)
+
+It still saves a heck of a lot of typing!
+
+> if digits[-1] == "5":
+>     pu()
+>     goto(0, 100)
+>     seth(90)
+>     pd()
+>     fd(35)
+>     rt(135)
+>     fd(50)
+
+And here you add two lines so either just tag the two
+lines after f or define a new function:
+
+def g(y,d,angle,d2):
+   f(y,d)
+   rt(angle)
+   fd(d2)
+
+I strongly suspect we can simplify this a lot more
+but that should be a start.
+
+But as to the colors, you only draw one line and you
+only set the color once so it's hard to see how
+randomising anything is going to be useful.
+
+-- 
+Alan G
+Author of the Learn to Program web site
+http://www.alan-g.me.uk/
+http://www.amazon.com/author/alan_gauld
+Follow my photo-blog on Flickr at:
+http://www.flickr.com/photos/alangauldphotos
+
+
+
+From jayant.wadhwani@gmail.com  Fri Mar  9 02:16:22 2018
+From: jayant.wadhwani@gmail.com (Jayant Wadhwani)
+Date: Fri, 9 Mar 2018 12:46:22 +0530
+Subject: [Tutor] py2app utility
+Message-ID: <CABdYP63q4Z_pUD9P2VeSmCB2jcYRigYJ17Ka6n4zHeCQuWaFUg@mail.gmail.com>
+
+Hi
+
+I need to create an executable file from py2app utility
+
+with the help of documentation on python.org i am able to create executable
+file on MAC OS X
+
+my question is the sample.app created with the help of py2app utility and i
+go inside the sample.app/resources i can still fine the python source file
+( sample.py)
+
+if we are creating the executable why there is inclusion of .py file in
+final bundle as we are not suppose to share the source code
+
+can you help me how can i remove sample.py in the final bundle creation
+from py2app utility
+
+
+Regards
+Jayant
+
+From steve@pearwood.info  Fri Mar  9 05:02:23 2018
+From: steve@pearwood.info (Steven D'Aprano)
+Date: Fri, 9 Mar 2018 21:02:23 +1100
+Subject: [Tutor] py2app utility
+In-Reply-To: <CABdYP63q4Z_pUD9P2VeSmCB2jcYRigYJ17Ka6n4zHeCQuWaFUg@mail.gmail.com>
+References: <CABdYP63q4Z_pUD9P2VeSmCB2jcYRigYJ17Ka6n4zHeCQuWaFUg@mail.gmail.com>
+Message-ID: <20180309100223.GK18868@ando.pearwood.info>
+
+On Fri, Mar 09, 2018@12:46:22PM +0530, Jayant Wadhwani wrote:
+> Hi
+> 
+> I need to create an executable file from py2app utility
+> 
+> with the help of documentation on python.org i am able to create executable
+> file on MAC OS X
+> 
+> my question is the sample.app created with the help of py2app utility and i
+> go inside the sample.app/resources i can still fine the python source file
+> ( sample.py)
+> 
+> if we are creating the executable why there is inclusion of .py file in
+> final bundle as we are not suppose to share the source code
+
+You wll have to ask the py2app developers why they include the source 
+code. Usually, the answer to that question is so that they can show 
+debugging information in the tracebacks if an exception occurs.
+
+Perhaps there is an option to py2app that removes the .py files and only 
+includes .pyc files. What does the documentation say?
+
+
+-- 
+Steve
+
+From sc_opensource@yahoo.com  Fri Mar  9 17:07:14 2018
+From: sc_opensource@yahoo.com (Simon Connah)
+Date: Fri, 9 Mar 2018 22:07:14 +0000 (UTC)
+Subject: [Tutor] Does the secrets module in Python 3.6 use a hardware RNG
+ like that provided in Intel CPUs?
+References: <2030405469.10974048.1520633234682.ref@mail.yahoo.com>
+Message-ID: <2030405469.10974048.1520633234682@mail.yahoo.com>
+
+Hi,
+I was reading through the secrets documentation in Python 3.6 and noticed that it uses /dev/urandom?but I'm unsure if that means it'll use a hardware RNG or just one provided by the operating system (Linux / Windows / etc) in software. The question is is it possible to determine the source of the randomness from os.urandom?if there was ever a flaw found in a particular hardware RNG? Plus systems could have a third party hardware RNG that was an external addon card or similar which might be better than the one found in Intel CPUs.
+I'm just a bit curious about the whole "will always use the strongest source for pseudo-random numbers" when research could change that assumption overnight based on discovered flaws.
+This is probably a really stupid question and if it is I apologise but I'm somewhat confused.
+Thanks for any help.
+
+From steve@pearwood.info  Sun Mar 11 06:18:41 2018
+From: steve@pearwood.info (Steven D'Aprano)
+Date: Sun, 11 Mar 2018 21:18:41 +1100
+Subject: [Tutor] Does the secrets module in Python 3.6 use a hardware
+ RNG like that provided in Intel CPUs?
+In-Reply-To: <2030405469.10974048.1520633234682@mail.yahoo.com>
+References: <2030405469.10974048.1520633234682.ref@mail.yahoo.com>
+ <2030405469.10974048.1520633234682@mail.yahoo.com>
+Message-ID: <20180311101841.GM18868@ando.pearwood.info>
+
+Hi Simon,
+
+On Fri, Mar 09, 2018@10:07:14PM +0000, Simon Connah via Tutor wrote:
+> Hi,
+> I was reading through the secrets documentation in Python 3.6 and 
+> noticed that it uses /dev/urandom?but I'm unsure if that means it'll 
+> use a hardware RNG or just one provided by the operating system (Linux 
+> / Windows / etc) in software.
+
+Getting cryptographic-quality random numbers right is very hard, and 
+that's not something which the Python core developers have either the 
+experience or desire to do. So the secrets module is an interface to the 
+operating system's source of randomness.
+
+If your operating system uses a hardware RNG for /dev/urandom (or the 
+equivalent for Windows), then so will the secrets module. If it doesn't, 
+then neither will secrets.
+
+In other words, Python trusts the operating system. Generally speaking, 
+most people should too. Most major operating systems, including Windows, 
+Linux, OS X, and various Unixes have well-respected RNGs which are 
+generally considered secure.
+
+But of course there's a lot we don't know about the state of the art of 
+*secret* crypto research and the capabilities of major government 
+intelligence agencies. What little we do know, we can thank a handful of 
+people like Edward Snowden and a few other unnamed whistle-blowers who 
+have leaked NSA documents.
+
+And flaws could be discovered@any time. Naturally, if a flaw is 
+discovered, the secrets module cannot magically patch it or replace the 
+software with something else. That's up to the operating system.
+
+
+> The question is is it possible to 
+> determine the source of the randomness from os.urandom?if there was 
+> ever a flaw found in a particular hardware RNG?
+
+You have to ask your OS developers about that, but the secrets module 
+doesn't support anything like that. It can't peer inside the OS and 
+determine how os.urandom works.
+
+Certainly you are right to be cautious about hardware RNGs. Back in 2013 
+it has become clear that the NSA@least (if not other intelligence 
+agencies) have compromised or inserted backdoors into many if not all 
+hardware-based RNGs in common use:
+
+http://www.nytimes.com/2013/09/06/us/nsa-foils-much-internet-encryption.html?pagewanted=all
+
+
+So if you are using a commercially available hardware RNG, you should 
+assume that the Five Eyes countries (the USA, UK, Australia, Canada and 
+New Zealand) have compromised it.
+
+In the case of Linux,@least, /dev/urandom will use the output of the 
+hardware RNG, but it is mixed in with other sources of cryptographically 
+strong randomness and is believed to be safe.
+
+https://plus.google.com/+TheodoreTso/posts/SDcoemc9V3J
+
+
+> I'm 
+> just a bit curious about the whole "will always use the strongest 
+> source for pseudo-random numbers" when research could change that 
+> assumption overnight based on discovered flaws.
+
+The full quote is:
+
+"The secrets module provides access to the most secure source of 
+randomness THAT YOUR OPERATING SYSTEM PROVIDES." [emphasis added]
+
+https://docs.python.org/3/library/secrets.html
+
+So don't imagine that the secrets module has access to the cutting edge 
+classified crypto technology used by the NSA :-)
+
+If you have any other questions, please feel free to ask on the mailing 
+list, and I will do my best to answer.
+
+By the way, I am the author of the secrets module:
+
+https://www.python.org/dev/peps/pep-0506/
+
+If you haven't already read the PEP (Python Enhancement Proposal), you 
+should, it contains a lot of background for why the secrets module was 
+invented.
+
+
+> This is probably a 
+> really stupid question and if it is I apologise but I'm somewhat 
+> confused.
+
+No need to apologise! Hope I cleared up your confusion, and if not, 
+please feel free to ask anything else that concerns you.
+
+Regards,
+
+
+-- 
+Steve
+
+From mihsh@yahoo.com  Sat Mar 10 23:20:58 2018
+From: mihsh@yahoo.com (Leslie SimondeMontfort)
+Date: Sat, 10 Mar 2018 23:20:58 -0500
+Subject: [Tutor] help with code
+Message-ID: <3zzSbb2FXxzFqvS@mail.python.org>
+
+Hi, I wondered if there is someone that can help me with this code.  Thank you, Leslie
+
+## Text menu in Python
+
+def print_menu():       ## Your menu design here
+    print 30 * "-" , "MENU" , 30 * "-"
+    print "1. Menu login 1"
+    print "2. Menu create an account 2"
+    print "3. Menu list all accounts 3"
+    print "4. Quit"
+    print 67 * "-"
+    
+    loop!=4
+    
+while loop:          ## While loop which will keep going until loop = False
+    print_menu()    ## Displays menu
+    choice = input("Enter your choice [1-4]: ")
+     
+if choice==1:"Menu login 1"
+	count = 0 
+while True: 
+  def User():
+    login = raw_input("Enter login name: ")
+    passw = raw_input("Enter password: ")
+
+    # check if user exists and login matches password
+    if login in users and users[login] == passw: 
+        print "\nLogin successful!\n"
+    else:
+        print "\nUser doesn't exist or wrong password!\n"
+        if choice == 3:
+        print("Too many attempts.")
+        exit()
+        
+
+for val in "string":
+    if val == "i":
+        break
+    print(val)
+
+print("The end")
+       
+   if choice==2:     
+       print " Menu create an account 2"
+
+        
+def main():
+    register()
+
+def register():
+    username = input("Please input your desired username ")
+    password = input("Please input your desired password ")
+     if not username or not password:
+            print "Enter a valid username and password..."
+        users = c.get_all_users()
+        userList = users['list_users_response']['list_users_result']['users']
+        if username in userList:
+            print "username already exist"
+            else:
+            # I just want to create if fields are not empty and if username dont exist
+            c.create_user(username)
+    file = open("credential.txt","a")
+    file.write(username)
+    file.write(" ")
+    file.write(password)
+    file.close()
+    login()
+    
+ if choice==3:     
+          
+ def login():
+    check = open("credential.txt","r")
+    username = input("Please enter your username")
+    password = input("Please enter your password")
+    
+ def thank_you():
+  print("Thank you for signing up@our website!.")
+  
+    elif choice == "q":
+    exit()
+Sent from Mail for Windows 10
+
+
+From joel.goldstick@gmail.com  Sun Mar 11 07:16:11 2018
+From: joel.goldstick@gmail.com (Joel Goldstick)
+Date: Sun, 11 Mar 2018 07:16:11 -0400
+Subject: [Tutor] help with code
+In-Reply-To: <3zzSbb2FXxzFqvS@mail.python.org>
+References: <3zzSbb2FXxzFqvS@mail.python.org>
+Message-ID: <CAPM-O+z7jHd0sRQTq4xexchgdprLt_WyoMARD6Vx7a4duCu0JQ@mail.gmail.com>
+
+On Sat, Mar 10, 2018@11:20 PM, Leslie SimondeMontfort via Tutor <
+tutor@python.org> wrote:
+
+> Hi, I wondered if there is someone that can help me with this code.  Thank
+> you, Leslie
+>
+> ## Text menu in Python
+>
+> def print_menu():       ## Your menu design here
+>     print 30 * "-" , "MENU" , 30 * "-"
+>     print "1. Menu login 1"
+>     print "2. Menu create an account 2"
+>     print "3. Menu list all accounts 3"
+>     print "4. Quit"
+>     print 67 * "-"
+>
+>     loop!=4
+>
+> while loop:          ## While loop which will keep going until loop = False
+>     print_menu()    ## Displays menu
+>     choice = input("Enter your choice [1-4]: ")
+>
+> if choice==1:"Menu login 1"
+>         count = 0
+> while True:
+>   def User():
+>     login = raw_input("Enter login name: ")
+>     passw = raw_input("Enter password: ")
+>
+>     # check if user exists and login matches password
+>     if login in users and users[login] == passw:
+>         print "\nLogin successful!\n"
+>     else:
+>         print "\nUser doesn't exist or wrong password!\n"
+>         if choice == 3:
+>         print("Too many attempts.")
+>         exit()
+>
+>
+> for val in "string":
+>     if val == "i":
+>         break
+>     print(val)
+>
+> print("The end")
+>
+>    if choice==2:
+>        print " Menu create an account 2"
+>
+>
+> def main():
+>     register()
+>
+> def register():
+>     username = input("Please input your desired username ")
+>     password = input("Please input your desired password ")
+>      if not username or not password:
+>             print "Enter a valid username and password..."
+>         users = c.get_all_users()
+>         userList = users['list_users_response']['
+> list_users_result']['users']
+>         if username in userList:
+>             print "username already exist"
+>             else:
+>             # I just want to create if fields are not empty and if
+> username dont exist
+>             c.create_user(username)
+>     file = open("credential.txt","a")
+>     file.write(username)
+>     file.write(" ")
+>     file.write(password)
+>     file.close()
+>     login()
+>
+>  if choice==3:
+>
+>  def login():
+>     check = open("credential.txt","r")
+>     username = input("Please enter your username")
+>     password = input("Please enter your password")
+>
+>  def thank_you():
+>   print("Thank you for signing up@our website!.")
+>
+>     elif choice == "q":
+>     exit()
+> Sent from Mail for Windows 10
+>
+> _______________________________________________
+> Tutor maillist  -  Tutor@python.org
+> To unsubscribe or change subscription options:
+> https://mail.python.org/mailman/listinfo/tutor
+>
+
+A quick look shows you are using print statements and print functions.  So,
+are you using python 3 or python 2?  What exactly are you asking about?
+
+-- 
+Joel Goldstick
+http://joelgoldstick.com/blog
+http://cc-baseballstats.info/stats/birthdays
+
+From alan.gauld@yahoo.co.uk  Sun Mar 11 07:41:09 2018
+From: alan.gauld@yahoo.co.uk (Alan Gauld)
+Date: Sun, 11 Mar 2018 11:41:09 +0000
+Subject: [Tutor] help with code
+In-Reply-To: <3zzSbb2FXxzFqvS@mail.python.org>
+References: <3zzSbb2FXxzFqvS@mail.python.org>
+Message-ID: <p834gh$5ju$1@blaine.gmane.org>
+
+On 11/03/18 04:20, Leslie SimondeMontfort via Tutor wrote:
+> Hi, I wondered if there is someone that can help me with this code. 
+
+I'll try but theres a lot to comment on.
+See below...
+
+> def print_menu():       ## Your menu design here
+>     print 30 * "-" , "MENU" , 30 * "-"
+>     print "1. Menu login 1"
+>     print "2. Menu create an account 2"
+>     print "3. Menu list all accounts 3"
+>     print "4. Quit"
+>     print 67 * "-"
+>     
+>     loop!=4
+
+That last line makes no sense. Its a boolean expression using an
+undeclared variable(loop) You should get a name error when you run
+it.
+
+> while loop:          ## While loop which will keep going until loop = False
+
+Again you reference loop but you have not assigned any
+value to it. You should get an error here too.
+
+>     print_menu()    ## Displays menu
+>     choice = input("Enter your choice [1-4]: ")
+
+This is the end of your while loop and you have not modified
+the test condition (loop) so even if loop existed this would
+just loop forever. One of the fundamental principles of while
+loops is that you must either modify the test condition
+somehow or use a break somewhere inside the loop.
+
+Also using input to convert your data is a bad design. ijput is very
+insecure and users could (deliberately or by accident) type values which
+python then executes and cause damagew, in extreme cases even crashing
+your computer. Its much better to explicitly convert the raw_input string:
+
+     choice = int(raw_input("Enter your choice [1-4]: "))
+
+To catch invalid input wrap it in a try/except block...
+
+
+> if choice==1:"Menu login 1"
+> 	count = 0
+
+This doesn't work either. You have an if test where the
+body is the single line containing the string. It doesn't
+do anything  although it is legal Python but...
+The next line is indented as if it were part of the if
+block but it isn't so you should get an error there too.
+
+> while True: 
+>   def User():
+>     login = raw_input("Enter login name: ")
+>     passw = raw_input("Enter password: ")
+> 
+>     # check if user exists and login matches password
+>     if login in users and users[login] == passw: 
+>         print "\nLogin successful!\n"
+>     else:
+>         print "\nUser doesn't exist or wrong password!\n"
+>         if choice == 3:
+>         print("Too many attempts.")
+>         exit()
+
+Now you have a loop that will go forever continually defining
+(but not calling) a function.
+
+Inside the function you might want to check the getpass
+function from the getpass module for a more secure password
+input. If you are on Unix/Linux/MacOS you could also look
+at the pwd module for ways of validating the user.
+
+Fiunally note that the if coice === 3 line is inside
+the invalid user block so would only be executed if it
+was an invalid user - which seems wrong?
+
+In fact I'd suggest that if block should not even be
+inside the User() function@all. Its not really checking
+anything about the user, its checking what the user did.
+Try to keep your functions purpose clear and distinct,
+don't mix functionality in a single function.
+
+> for val in "string":
+>     if val == "i":
+>         break
+
+This assigns val to s,then t then r then i so it will allways break on
+the 4th cycle.
+
+You might as well just write
+
+for val in 'str':
+
+>     print(val)
+
+And since you just print val you might as well miss out the loop and use
+
+print('s\nt\nr\n')
+
+> print("The end")
+>        
+>    if choice==2:     
+>        print " Menu create an account 2"
+
+This is indented but there is no enclosing block so
+should give an indentation error.
+
+> def main():
+>     register()
+> 
+> def register():
+>     username = input("Please input your desired username ")
+>     password = input("Please input your desired password ")
+>      if not username or not password:
+>             print "Enter a valid username and password..."
+>         users = c.get_all_users()
+>         userList = users['list_users_response']['list_users_result']['users']
+
+Note the indentation is all over the place.
+Python is fussy about consistent indentation, you will get errors here.
+
+Also you reference c but c does not appear anywhere else.
+What is c?
+
+The remaining code has more of the same so I'll stop here.
+I think you need to strip this back and get the basic structure working
+first before trying to add all the other functions.
+
+print a menu, read the input and print the users choice.
+Exit when option 4 is used.
+
+Get that working then you can add the code to process
+the choices one by one. Get each choice working before
+adding the next.
+
+-- 
+Alan G
+Author of the Learn to Program web site
+http://www.alan-g.me.uk/
+http://www.amazon.com/author/alan_gauld
+Follow my photo-blog on Flickr at:
+http://www.flickr.com/photos/alangauldphotos
+
+
+
+From cs@cskk.id.au  Sun Mar 11 07:39:21 2018
+From: cs@cskk.id.au (Cameron Simpson)
+Date: Sun, 11 Mar 2018 22:39:21 +1100
+Subject: [Tutor] help with code
+In-Reply-To: <3zzSbb2FXxzFqvS@mail.python.org>
+References: <3zzSbb2FXxzFqvS@mail.python.org>
+Message-ID: <20180311113921.GA84256@cskk.homeip.net>
+
+On 10Mar2018 23:20, Leslie SimondeMontfort <mihsh@yahoo.com> wrote:
+>Hi, I wondered if there is someone that can help me with this code.  Thank you, Leslie
+
+Generally we like to know what you think is wrong with it. For example, what 
+you expected it to do, and a little transcript of what it actually did 
+(cut/paste the text from your terminal/console straight in this email, complete 
+with any stack traces that came with it, if there were any).
+
+This looks like homework, and we're generally happy to help if you'll explain 
+what you're trying to achieve and show the code you have so far. I'm glad to 
+see you've included all your code here, it is usually necessary.
+
+Absent an actual error transcript I can make a few general remarks about the 
+code which might lead you towards making it work the way you intend it to.
+
+Remarks inline below, in the code:
+
+>## Text menu in Python
+>
+>def print_menu():       ## Your menu design here
+>    print 30 * "-" , "MENU" , 30 * "-"
+>    print "1. Menu login 1"
+>    print "2. Menu create an account 2"
+>    print "3. Menu list all accounts 3"
+>    print "4. Quit"
+>    print 67 * "-"
+>
+>    loop!=4
+
+The line above "loop!=4" is a simple expression. It is valid, but useless.  
+Normally a test with be part of a statement, such as the condition in an "if" 
+or "while".
+
+Also, because it is indented it is inside the "print_menu" function,
+which doesn't seem very relevant - the function shouldn't care about
+the value of "loop".
+
+>while loop:          ## While loop which will keep going until loop = False
+
+You haven't set a value to "loop" yet, so this code will raise an exception as 
+soon as you try to test "loop". Probably it should be set to True before the 
+loop begins.
+
+>    print_menu()    ## Displays menu
+>    choice = input("Enter your choice [1-4]: ")
+>
+>if choice==1:"Menu login 1"
+>	count = 0
+
+Indentation is important in Python. Because this "if" statement is not 
+indented, it is outside the "while" loop above. It looks like you while loop is 
+meant to offer menu choices until the user chooses "Quit". So all the code 
+acting on those choices needs to be inside the loop, and thus indents the same 
+as the 2 lines above it which print the menu and read the choice.
+
+You're setting "count = 0" but I don't see you use "count" elsewhere.
+
+>while True:
+>  def User():
+>    login = raw_input("Enter login name: ")
+>    passw = raw_input("Enter password: ")
+>
+>    # check if user exists and login matches password
+>    if login in users and users[login] == passw:
+>        print "\nLogin successful!\n"
+>    else:
+>        print "\nUser doesn't exist or wrong password!\n"
+>        if choice == 3:
+>        print("Too many attempts.")
+>        exit()
+
+This probably doesn't do what you imagine. A "def" statement is a statement, to 
+be run. This loop runs forever, but all it does in the loop is _define_ the 
+function "User". It never calls the function. So it will just run forever, 
+redefining the function again and again.
+
+Probably you need to define the function _before_ the loop, and actually call 
+the function inside the loop.
+
+Normally all your function definitions will be outside the main code, so the 
+"User" function definition should be above this, for example right underneath 
+your "print_menu" function definition. Likewise your other functions.
+
+>for val in "string":
+>    if val == "i":
+>        break
+>    print(val)
+
+I presume this is just a little exercise loop to print some of the leading 
+characters from the string "string".
+
+>print("The end")
+>
+>   if choice==2:
+>       print " Menu create an account 2"
+
+This "if" statement _is_ indented correctly for the main loop you set up 
+earlier, but all the intervening code will be getting in the way. Once you have 
+all the function definitions up the top of your code things will work better.
+>
+>def main():
+>    register()
+
+Note that this just defines a "main" function. Nothing seems to call it.
+
+>def register():
+>    username = input("Please input your desired username ")
+>    password = input("Please input your desired password ")
+>     if not username or not password:
+
+This "if" is indented differently to the other statements in this function. It 
+needs to move left one space.
+
+You seem to be using Python 2. In Python 2, input() actually evaluates the 
+input string as a Python expression. This is why you got an integer earlier 
+when you prompted the user for "choice". However, when reading strings such as 
+usernames or passwords you need to use raw_input(), not input(). raw_input() 
+just reads the string and returns it.
+
+>            print "Enter a valid username and password..."
+
+Here's you are admonishing the user for entering an empty username or password.  
+However you don't then do anything about it; instead your code falls through 
+and starts setting up the user.
+
+You probably want a loop shapes more like this (totally untested):
+
+    while True:
+        username = input("Please input your desired username ")
+        if len(username) == 0:
+            print("Empty username rejected.")
+            continue
+        password = input("Please input your desired password ")
+        if len(password) == 0:
+            print("Empty password rejected.")
+            continue
+        break
+
+which will keep prompting until both the username and password are acceptable.  
+_Then_ it breaks out of the loop and proceeds.
+
+>        users = c.get_all_users()
+>        userList = users['list_users_response']['list_users_result']['users']
+>        if username in userList:
+>            print "username already exist"
+>            else:
+
+This "else" needs to be indented the same as the "if".
+
+>            # I just want to create if fields are not empty and if username dont exist
+>            c.create_user(username)
+>    file = open("credential.txt","a")
+>    file.write(username)
+>    file.write(" ")
+>    file.write(password)
+>    file.close()
+>    login()
+
+It seems odd to call the "login" function after creating the user.
+
+>
+> if choice==3:
+
+Again, this "if" should be indented for the main loop like the other "choice" 
+"if" statements.
+
+> def login():
+>    check = open("credential.txt","r")
+
+Here you're opening the credential.txt file, but not doing anything with it.
+
+>    username = input("Please enter your username")
+>    password = input("Please enter your password")
+
+Again, these lines should call raw_input(), not input().
+
+> def thank_you():
+>  print("Thank you for signing up@our website!.")
+
+You define this function but never call it.
+
+>    elif choice == "q":
+>    exit()
+
+The call to exit() needs to be indented in order to be inside the "elif".
+
+Also, exit() is not a builtin function. I need to import it. Normally you would 
+put this import@the very top of your program, such as:
+
+  from sys import exit
+
+I also notice here that you're expecting the user to be able to enter a "q" 
+instead of a "4". So this doesn't match your menu.  But if you do want the user 
+to enter a "q" the you need to use raw_input() instead of input() in your menu 
+prompt, and your other "choice" values need to be strings, such as "1", "2" and 
+so forth.
+
+Cheers,
+Cameron Simpson <cs@cskk.id.au>
+
+From bgailer@gmail.com  Sun Mar 11 11:17:57 2018
+From: bgailer@gmail.com (Bob Gailer)
+Date: Sun, 11 Mar 2018 11:17:57 -0400
+Subject: [Tutor] help with code
+In-Reply-To: <3zzSbb2FXxzFqvS@mail.python.org>
+References: <3zzSbb2FXxzFqvS@mail.python.org>
+Message-ID: <CAP1rxO7AcfRoE1N=9xG5VKpRng2V8oJ9bYzUp=_Tf0LMn=6Ufg@mail.gmail.com>
+
+On Mar 11, 2018 6:25 AM, "Leslie SimondeMontfort via Tutor" <
+tutor@python.org> wrote:
+>
+> Hi, I wondered if there is someone that can help me with this code.
+
+I have to assume that you are very new to python. Have you written a Python
+program that runs the way you want it to?
+
+It is often useful to start by writing a very simple program that contains
+one aspect of the problem you're trying to solve, then getting that program
+to run. Then you add another feature and get that to run.
+
+When you run into a problem, then email us the code, and tell us what
+version of python you're using, what you did to run the program, what
+results you expected, and what results you got. You can often handle the
+latter by copying and pasting the execution. If the result was a traceback
+be sure to include the entire traceback.
+
+From arj.python@gmail.com  Sun Mar 11 11:41:35 2018
+From: arj.python@gmail.com (Abdur-Rahmaan Janhangeer)
+Date: Sun, 11 Mar 2018 19:41:35 +0400
+Subject: [Tutor] help with code
+In-Reply-To: <3zzSbb2FXxzFqvS@mail.python.org>
+References: <3zzSbb2FXxzFqvS@mail.python.org>
+Message-ID: <CADrxXXn31pjMXxavoYwtHk9z1jj2gDtDdE4u1Ur-YGs+wSEXbA@mail.gmail.com>
+
+ print 30 * "-" , "MENU" , 30 * "-"
+
+# just tested in py3 you can do
+# 'MENU'.center(67, '-')
+
+On Sun, Mar 11, 2018@8:20 AM, Leslie SimondeMontfort via Tutor <
+tutor@python.org> wrote:
+
+> Hi, I wondered if there is someone that can help me with this code.  Thank
+> you, Leslie
+>
+> ## Text menu in Python
+>
+> def print_menu():       ## Your menu design here
+>     print 30 * "-" , "MENU" , 30 * "-"
+>     print "1. Menu login 1"
+>     print "2. Menu create an account 2"
+>     print "3. Menu list all accounts 3"
+>     print "4. Quit"
+>     print 67 * "-"
+>
+>     loop!=4
+>
+> while loop:          ## While loop which will keep going until loop = False
+>     print_menu()    ## Displays menu
+>     choice = input("Enter your choice [1-4]: ")
+>
+> if choice==1:"Menu login 1"
+>         count = 0
+> while True:
+>   def User():
+>     login = raw_input("Enter login name: ")
+>     passw = raw_input("Enter password: ")
+>
+>     # check if user exists and login matches password
+>     if login in users and users[login] == passw:
+>         print "\nLogin successful!\n"
+>     else:
+>         print "\nUser doesn't exist or wrong password!\n"
+>         if choice == 3:
+>         print("Too many attempts.")
+>         exit()
+>
+>
+> for val in "string":
+>     if val == "i":
+>         break
+>     print(val)
+>
+> print("The end")
+>
+>    if choice==2:
+>        print " Menu create an account 2"
+>
+>
+> def main():
+>     register()
+>
+> def register():
+>     username = input("Please input your desired username ")
+>     password = input("Please input your desired password ")
+>      if not username or not password:
+>             print "Enter a valid username and password..."
+>         users = c.get_all_users()
+>         userList = users['list_users_response']['
+> list_users_result']['users']
+>         if username in userList:
+>             print "username already exist"
+>             else:
+>             # I just want to create if fields are not empty and if
+> username dont exist
+>             c.create_user(username)
+>     file = open("credential.txt","a")
+>     file.write(username)
+>     file.write(" ")
+>     file.write(password)
+>     file.close()
+>     login()
+>
+>  if choice==3:
+>
+>  def login():
+>     check = open("credential.txt","r")
+>     username = input("Please enter your username")
+>     password = input("Please enter your password")
+>
+>  def thank_you():
+>   print("Thank you for signing up@our website!.")
+>
+>     elif choice == "q":
+>     exit()
+> Sent from Mail for Windows 10
+>
+> _______________________________________________
+> Tutor maillist  -  Tutor@python.org
+> To unsubscribe or change subscription options:
+> https://mail.python.org/mailman/listinfo/tutor
+>
+
+
+
+-- 
+Abdur-Rahmaan Janhangeer
+https://github.com/abdur-rahmaanj
+Mauritius
+
+From bhewener@gmail.com  Sun Mar 11 11:23:02 2018
+From: bhewener@gmail.com (Bernd Hewener)
+Date: Sun, 11 Mar 2018 16:23:02 +0100
+Subject: [Tutor] prime factorisation
+Message-ID: <5aa549d3.6291df0a.49cca.ffd4@mx.google.com>
+
+Dear python tutors,
+
+for training purposes, I am writing a Python program for prime factorisation.
+
+Functions for reading in the number and finding the primes are working alright (of Course, finding primes up to ? Number would suffice).
+
+Still, the function for finding the factorization itsel does not work. I am not sure, but the number i running through the primes for checking does not seem to work properly.
+
+Would you please be so kind as to help?
+
+Thank you very much.
+
+Best wishes,
+
+Bernd
+
+
+# This program calculates the prime factors of a number entered.
+
+primefactors = []
+
+n, num = 0, 0
+
+def readin():
+    print ("Readin")
+    while True:
+        num = input("Please enter a positive integer n for prime factorization. ")
+        try:
+            n = int(num)
+            return n
+        except ValueError or num < 1:
+                print("Please enter a _positive_ integer!")
+        else:
+            break
+
+def prime_find(l):
+    #print ("Primefind " + str(l))
+    primes = []
+    for num in range(2, l + 1):
+        for i in primes:
+            if (num % i) == 0:
+                break
+        else:
+            primes.insert(0, num)
+    return primes
+
+def prime_factorization(k):
+    print ("Prime factorization")
+    prime_facs = []
+    for i in range(len(prime_find(k)):
+        while k % i == 0:
+            prime_facs.insert(0, i)
+            k = k / i
+        else:
+            break
+        return prime_facs
+
+number = readin()
+primes = prime_find(number)
+print ("Prime numbers up to " + str(number) + " are:")
+print (primes)
+prime_factor = prime_factorization(number)
+print (prime_factor)
+
+"""def PrimFaktorZerlegung(n):
+  #Primen enth?lt Primzahlen. Wir hoffen, dass 
+  #alle Primteiler in diese List zu finden sind.
+  #Sie kann ein Parameter, oder ein Klasskonstant sein
+  for p in range(len(Primen)):
+    while n % p == 0:
+      Teiler.append(p)
+       n = n/p
+  return Teiler"""
+
+
+From jf_byrnes@comcast.net  Sun Mar 11 16:52:29 2018
+From: jf_byrnes@comcast.net (Jim)
+Date: Sun, 11 Mar 2018 15:52:29 -0500
+Subject: [Tutor] Virtual environment question
+Message-ID: <p844qe$ekt$1@blaine.gmane.org>
+
+It was my understanding that using a virtual environment kept everything 
+isolated in that environment. So I was surprised when I got the 
+following error message.
+
+(env) jfb@jims-mint18 ~ $
+
+<snip>
+File 
+"/home/jfb/EVs/env/lib/python3.5/site-packages/selenium/webdriver/remote/remote_connection.py", 
+line 528, in _request
+     resp = opener.open(request, timeout=self._timeout)
+
+   File "/usr/lib/python3.5/urllib/request.py", line 466, in open
+     response = self._open(req, data)
+<snip>
+
+I snipped most of the error msg because for the purpose of this question 
+I am not interested in them. I tried  something that I did not think 
+would work and it did not.
+
+I am wondering why the path for the first line and every line above it 
+is /home/jfb/EVs/env and the second line and everything after is is
+/usr/lib/.
+
+I didn't think anything from my system python would be involved if I 
+started from a virtual environment.
+
+Regards,  Jim
+
+
+
+From jf_byrnes@comcast.net  Sun Mar 11 20:44:41 2018
+From: jf_byrnes@comcast.net (Jim)
+Date: Sun, 11 Mar 2018 19:44:41 -0500
+Subject: [Tutor] Virtual environment question
+In-Reply-To: <20180311225459.GA53900@cskk.homeip.net>
+References: <p844qe$ekt$1@blaine.gmane.org>
+ <20180311225459.GA53900@cskk.homeip.net>
+Message-ID: <3d862612-7923-5bb7-3e05-f6c8dc57b973@comcast.net>
+
+On 03/11/2018 05:54 PM, Cameron Simpson wrote:
+
+Note: This message came straight to me and I haven't seen it on the list 
+yet. Hopefully this reply will make it to the list.
+
+> On 11Mar2018 15:52, jim <jf_byrnes@comcast.net> wrote:
+>> It was my understanding that using a virtual environment kept 
+>> everything isolated in that environment. So I was surprised when I got 
+>> the following error message.
+>>
+>> (env) jfb@jims-mint18 ~ $
+>>
+>> <snip>
+>> File 
+>> "/home/jfb/EVs/env/lib/python3.5/site-packages/selenium/webdriver/remote/remote_connection.py", 
+>> line 528, in _request
+>> ?? resp = opener.open(request, timeout=self._timeout)
+>>
+>> ?File "/usr/lib/python3.5/urllib/request.py", line 466, in open
+>> ?? response = self._open(req, data)
+>> <snip>
+>>
+>> I snipped most of the error msg because for the purpose of this 
+>> question I am not interested in them. I tried? something that I did 
+>> not think would work and it did not.
+>>
+>> I am wondering why the path for the first line and every line above it 
+>> is /home/jfb/EVs/env and the second line and everything after is is
+>> /usr/lib/.
+>>
+>> I didn't think anything from my system python would be involved if I 
+>> started from a virtual environment.
+> 
+> It is possible to make a virtualenv which references the osurce python's 
+> library. These days the default is isolation, but older virtualenvs used 
+> to hook to the original python by default. This is controlled by 
+> virtualenv's --system-site-packages and --no-site-packages. Maybe you 
+> should build the env again using --no-site-packages explicitly and see 
+> if the behaviour changes.
+> 
+> If you're not using the "virtualenv" command to make the environment, 
+> please tell use exactly how it was made (there are other tools for the 
+> same purpose).
+> 
+> In fact, tell us regardless. It aids debugging.
+> 
+> Cheers,
+> Cameron Simpson <cs@cskk.id.au> (formerly cs@zip.com.au)
+
+I installed pyvenv in Jan 17 using synaptic on  Mint 18.
+
+Here are the contents of the pyvenv cfg file:
+
+home = /usr/bin
+include-system-site-packages = false
+version = 3.5.2
+
+It's been awhile so I don't remember that much about the installation. I 
+really don't know that much about virtual environments so I am guessing 
+I accepted the defaults for the installation.
+
+Just to be complete here is the entire error msg:
+
+Traceback (most recent call last):
+   File "/home/jfb/MyProgs/Scripts/login_af.py", line 36, in <module>
+     driver = webdriver.Remote(desired_capabilities=caps)
+   File 
+"/home/jfb/EVs/env/lib/python3.5/site-packages/selenium/webdriver/remote/webdriver.py", 
+line 154, in __init__
+     self.start_session(desired_capabilities, browser_profile)
+   File 
+"/home/jfb/EVs/env/lib/python3.5/site-packages/selenium/webdriver/remote/webdriver.py", 
+line 243, in start_session
+     response = self.execute(Command.NEW_SESSION, parameters)
+   File 
+"/home/jfb/EVs/env/lib/python3.5/site-packages/selenium/webdriver/remote/webdriver.py", 
+line 310, in execute
+     response = self.command_executor.execute(driver_command, params)
+   File 
+"/home/jfb/EVs/env/lib/python3.5/site-packages/selenium/webdriver/remote/remote_connection.py", 
+line 466, in execute
+     return self._request(command_info[0], url, body=data)
+   File 
+"/home/jfb/EVs/env/lib/python3.5/site-packages/selenium/webdriver/remote/remote_connection.py", 
+line 528, in _request
+     resp = opener.open(request, timeout=self._timeout)
+   File "/usr/lib/python3.5/urllib/request.py", line 466, in open
+     response = self._open(req, data)
+   File "/usr/lib/python3.5/urllib/request.py", line 484, in _open
+     '_open', req)
+   File "/usr/lib/python3.5/urllib/request.py", line 444, in _call_chain
+     result = func(*args)
+   File "/usr/lib/python3.5/urllib/request.py", line 1282, in http_open
+     return self.do_open(http.client.HTTPConnection, req)
+   File "/usr/lib/python3.5/urllib/request.py", line 1256, in do_open
+     raise URLError(err)
+urllib.error.URLError: <urlopen error [Errno 111] Connection refused>
+
+If you tell me where to look, I'd be happy to provide any more info you 
+need.
+
+
+Regards,  Jim
+
+From cs@cskk.id.au  Sun Mar 11 18:54:59 2018
+From: cs@cskk.id.au (Cameron Simpson)
+Date: Mon, 12 Mar 2018 09:54:59 +1100
+Subject: [Tutor] Virtual environment question
+In-Reply-To: <p844qe$ekt$1@blaine.gmane.org>
+References: <p844qe$ekt$1@blaine.gmane.org>
+Message-ID: <20180311225459.GA53900@cskk.homeip.net>
+
+On 11Mar2018 15:52, jim <jf_byrnes@comcast.net> wrote:
+>It was my understanding that using a virtual environment kept 
+>everything isolated in that environment. So I was surprised when I got 
+>the following error message.
+>
+>(env) jfb@jims-mint18 ~ $
+>
+><snip>
+>File "/home/jfb/EVs/env/lib/python3.5/site-packages/selenium/webdriver/remote/remote_connection.py", 
+>line 528, in _request
+>    resp = opener.open(request, timeout=self._timeout)
+>
+>  File "/usr/lib/python3.5/urllib/request.py", line 466, in open
+>    response = self._open(req, data)
+><snip>
+>
+>I snipped most of the error msg because for the purpose of this 
+>question I am not interested in them. I tried  something that I did 
+>not think would work and it did not.
+>
+>I am wondering why the path for the first line and every line above it 
+>is /home/jfb/EVs/env and the second line and everything after is is
+>/usr/lib/.
+>
+>I didn't think anything from my system python would be involved if I started 
+>from a virtual environment.
+
+It is possible to make a virtualenv which references the osurce python's 
+library. These days the default is isolation, but older virtualenvs used to 
+hook to the original python by default. This is controlled by virtualenv's 
+--system-site-packages and --no-site-packages. Maybe you should build the env 
+again using --no-site-packages explicitly and see if the behaviour changes.
+
+If you're not using the "virtualenv" command to make the environment, please 
+tell use exactly how it was made (there are other tools for the same purpose).
+
+In fact, tell us regardless. It aids debugging.
+
+Cheers,
+Cameron Simpson <cs@cskk.id.au> (formerly cs@zip.com.au)
+
+From henriquecsj@gmail.com  Sun Mar 11 16:02:07 2018
+From: henriquecsj@gmail.com (Henrique C. S. Junior)
+Date: Sun, 11 Mar 2018 17:02:07 -0300
+Subject: [Tutor] [Pandas] - Creating a bigger dataframe by using one minor
+ dataframe as variable of another minor dataframe
+Message-ID: <CAEeMmBkGodw3b0g+84ksnfE18yFgh3ZjXre=uOjOwB-g_TYRQA@mail.gmail.com>
+
+I?m working with two dataframes obtained from the infrared spectroscopy
+analysis  (yes, we?re scientists trying to work better using python).
+The dataframes are as follows:
+
+***DATA1:***
+
+        IR    RAMAN   CM-1
+     245.54  730.41  3538.10   s1 100
+       3.93  204.17  3237.13   s6 93
+      11.13  477.42  3233.43   s3 14   s5 76
+       3.44  136.83  3229.53   s3 -78   s5 15
+       6.40  363.33  3219.42   s7 94
+       8.02  296.03  3217.14   s2 -90
+       6.13   80.90  3209.69   s9 93
+       3.43  166.41  3204.74   s4 -92
+       8.91  146.43  3203.92   s8 94
+    26.77  201.97  3168.99   s10 82   s12 -18
+
+
+***DATA2:***
+
+    s 1     1.00   STRE   14   21   NH    1.015055  f3538 100
+    s 2     1.00   STRE    1   22   CH    1.081994  f3217 90
+    s 3    -1.00   STRE    1   22   CH    1.081994  f3233 14  f3230 78
+    s 4     1.00   STRE    4   23   CH    1.082576  f3205 92
+    s 5     1.00   STRE   19   26   CH    1.080387  f3237 93
+    s 7     1.00   STRE   17   28   CH    1.083210  f3219 94
+    s 8     1.00   STRE   17   28   CH    1.083210  f3204 94
+    s 57    1.00   BEND   11   12   14   CCN   129.85  f940 20
+    s 58    1.00   BEND   19   18   15   CCC   120.65
+    s 59   -1.00   BEND   15   17   20   CCC   120.28  f1037 32  f842 10
+    s 60    1.00   BEND   11    8   10   CCO   122.22  f402 38
+    s 61   -1.00   BEND    8   11   13   CCCl   114.81  f221 60  f194 11d
+    s 93    1.00   OUT    30   19   20   16   OCCC     0.17  f864 14  f746
+11  f535 17  f517 11
+    s 94    1.00   OUT     7    6    1    3   CCCC     0.48  f829 10  f172
+41
+    s 95    1.00   OUT    17   14   18   15   CNCC     3.64  f564 16  f535
+15  f396 10
+    s 96    1.00   OUT    10    6   11    8   OCCC     0.74  f822 63
+
+At this point, they are both (after a LOT of work) converted into a pandas
+dataframe but, as a final result, I?d like to create one big dataframe
+because those two are related by the variables s1, s2, s3, s4 and so on.
+So, I?d like to insert the variables s1, s2, s3, sn every time they appear
+in the DATA1:
+
+***DATA1 with DATA2:***
+*(I tried to use ** to show you every time DATA 2 was inserted into DATA1)*
+
+        IR    RAMAN   CM-1
+     245.54  730.41  3538.10   *s1* 100 ***STRE   14   21   NH    1.015055*
+**
+       3.93  204.17  3237.13   *s6* 93 ***STRE   19   26   CH    1.080387*
+**
+      11.13  477.42  3233.43   *s3* ***14 STRE    1   22   CH    1.081994***
+ *s5* 76 ***STRE   19   26   CH    1.080387***
+       3.44  136.83  3229.53   *s3* -78 ***STRE    1   22   CH    1.081994***
+*s5* 15  ***STRE   19   26   CH 1.080387***
+
+Observe that some lines can have more than two variables.
+I have to admit that I?m completely lost using pandas right now and any
+help is much appreciated.
+
+Thanks in advance.
+
+-- 
+*Henrique C. S. Junior*
+
+From eryksun@gmail.com  Mon Mar 12 05:04:18 2018
+From: eryksun@gmail.com (eryk sun)
+Date: Mon, 12 Mar 2018 09:04:18 +0000
+Subject: [Tutor] Virtual environment question
+In-Reply-To: <3d862612-7923-5bb7-3e05-f6c8dc57b973@comcast.net>
+References: <p844qe$ekt$1@blaine.gmane.org>
+ <20180311225459.GA53900@cskk.homeip.net>
+ <3d862612-7923-5bb7-3e05-f6c8dc57b973@comcast.net>
+Message-ID: <CACL+1avH2xm1NGtjfTA62onRq3VWv9eRHgS733zyHGO1gjcnCQ@mail.gmail.com>
+
+On Mon, Mar 12, 2018@12:44 AM, Jim <jf_byrnes@comcast.net> wrote:
+>
+> home = /usr/bin
+> include-system-site-packages = false
+[...]
+>     resp = opener.open(request, timeout=self._timeout)
+>   File "/usr/lib/python3.5/urllib/request.py", line 466, in open
+
+This is normal. Virtual environments are not isolated from the standard library.
+
+From steve@pearwood.info  Mon Mar 12 10:26:39 2018
+From: steve@pearwood.info (Steven D'Aprano)
+Date: Tue, 13 Mar 2018 01:26:39 +1100
+Subject: [Tutor] prime factorisation
+In-Reply-To: <5aa549d3.6291df0a.49cca.ffd4@mx.google.com>
+References: <5aa549d3.6291df0a.49cca.ffd4@mx.google.com>
+Message-ID: <20180312142639.GQ18868@ando.pearwood.info>
+
+Hello Bernd,
+
+My comments below, interleaved with yours.
+
+On Sun, Mar 11, 2018@04:23:02PM +0100, Bernd Hewener wrote:
+
+> Functions for reading in the number and finding the primes are working 
+> alright (of Course, finding primes up to ? Number would suffice).
+
+Actually you only need to go up to square root of the number.
+
+> Still, the function for finding the factorization itsel does not work. 
+> I am not sure, but the number i running through the primes for 
+> checking does not seem to work properly.
+
+What do you mean, does not work? In what way?
+
+When you run the code, what does it do?
+
+
+Some further comments:
+
+[...]
+> def readin():
+>     print ("Readin")
+>     while True:
+>         num = input("Please enter a positive integer n for prime factorization. ")
+>         try:
+>             n = int(num)
+>             return n
+>         except ValueError or num < 1:
+>                 print("Please enter a _positive_ integer!")
+>         else:
+>             break
+
+That code doesn't actually do what you think it does. In fact, it is an 
+accident that it works@all!
+
+The problem is the line
+
+    except ValueError or num < 1
+
+which does *not* catch a ValueError and check that num is less than one. 
+Instead, it evaluates to just catching ValueError. So it never checks 
+that the entered number is positive.
+
+
+
+Regards,
+
+
+
+Steve
+
+From btoddpuls@gmail.com  Mon Mar 12 15:33:17 2018
+From: btoddpuls@gmail.com (Bruce Todd Puls)
+Date: Mon, 12 Mar 2018 15:33:17 -0400
+Subject: [Tutor] prime factorisation
+Message-ID: <CAKMF669iO+Z_+A9mhyCLEsAywmZeqrx_-YhE6xBCt0oKV8zpzA@mail.gmail.com>
+
+I think You would do much better if You wrote pseudo code first,
+i.e. write each step out in words,
+code is much easier to write following pseudo code
+
+Are You trying to factor Prime Numbers?
+Prime Number factored (Prime Number and 1)
+
+
+https://en.wikipedia.org/wiki/Table_of_prime_factors#1_to_100
+
+https://www.mathsisfun.com/prime-factorization.html
+
+From jf_byrnes@comcast.net  Mon Mar 12 21:31:47 2018
+From: jf_byrnes@comcast.net (Jim)
+Date: Mon, 12 Mar 2018 20:31:47 -0500
+Subject: [Tutor] Virtual environment question
+In-Reply-To: <CACL+1avH2xm1NGtjfTA62onRq3VWv9eRHgS733zyHGO1gjcnCQ@mail.gmail.com>
+References: <p844qe$ekt$1@blaine.gmane.org>
+ <20180311225459.GA53900@cskk.homeip.net>
+ <3d862612-7923-5bb7-3e05-f6c8dc57b973@comcast.net>
+ <CACL+1avH2xm1NGtjfTA62onRq3VWv9eRHgS733zyHGO1gjcnCQ@mail.gmail.com>
+Message-ID: <p879i4$eq3$1@blaine.gmane.org>
+
+On 03/12/2018 04:04 AM, eryk sun wrote:
+> On Mon, Mar 12, 2018@12:44 AM, Jim <jf_byrnes@comcast.net> wrote:
+>>
+>> home = /usr/bin
+>> include-system-site-packages = false
+> [...]
+>>      resp = opener.open(request, timeout=self._timeout)
+>>    File "/usr/lib/python3.5/urllib/request.py", line 466, in open
+> 
+> This is normal. Virtual environments are not isolated from the standard library.
+
+Interesting. All I know about virtual environments is what I read on the 
+net. I always see them recommended as a way to keep from messing up the 
+default python, so I thought isolation was their purpose.
+
+Thanks,  Jim
+
+
+
+From eryksun@gmail.com  Mon Mar 12 21:44:38 2018
+From: eryksun@gmail.com (eryk sun)
+Date: Tue, 13 Mar 2018 01:44:38 +0000
+Subject: [Tutor] Virtual environment question
+In-Reply-To: <p879i4$eq3$1@blaine.gmane.org>
+References: <p844qe$ekt$1@blaine.gmane.org>
+ <20180311225459.GA53900@cskk.homeip.net>
+ <3d862612-7923-5bb7-3e05-f6c8dc57b973@comcast.net>
+ <CACL+1avH2xm1NGtjfTA62onRq3VWv9eRHgS733zyHGO1gjcnCQ@mail.gmail.com>
+ <p879i4$eq3$1@blaine.gmane.org>
+Message-ID: <CACL+1av5S9gDkjJQ8n_wM31g8Ed0mASmyuJaSOCGRS_21xTGKQ@mail.gmail.com>
+
+On Tue, Mar 13, 2018@1:31 AM, Jim <jf_byrnes@comcast.net> wrote:
+> On 03/12/2018 04:04 AM, eryk sun wrote:
+>>
+>> On Mon, Mar 12, 2018@12:44 AM, Jim <jf_byrnes@comcast.net> wrote:
+>>>
+>>> home = /usr/bin
+>>> include-system-site-packages = false
+>>
+>> [...]
+>>>
+>>>      resp = opener.open(request, timeout=self._timeout)
+>>>    File "/usr/lib/python3.5/urllib/request.py", line 466, in open
+>>
+>> This is normal. Virtual environments are not isolated from the standard
+>> library.
+>
+> Interesting. All I know about virtual environments is what I read on the
+> net. I always see them recommended as a way to keep from messing up the
+> default python, so I thought isolation was their purpose.
+
+You're thinking of isolating packages that are installed in
+site-packages, not the standard library. There's no point in copying
+and recompiling the entire standard library in every virtual
+environment.
+
+From mats@wichmann.us  Mon Mar 12 22:35:02 2018
+From: mats@wichmann.us (Mats Wichmann)
+Date: Mon, 12 Mar 2018 19:35:02 -0700
+Subject: [Tutor] Virtual environment question
+In-Reply-To: <p879i4$eq3$1@blaine.gmane.org>
+References: <p844qe$ekt$1@blaine.gmane.org>
+ <20180311225459.GA53900@cskk.homeip.net>
+ <3d862612-7923-5bb7-3e05-f6c8dc57b973@comcast.net>
+ <CACL+1avH2xm1NGtjfTA62onRq3VWv9eRHgS733zyHGO1gjcnCQ@mail.gmail.com>
+ <p879i4$eq3$1@blaine.gmane.org>
+Message-ID: <7F55B322-0981-4937-ADA8-1A48A198F5DB@wichmann.us>
+
+you are talking about different sides of isolation. you install into a virtualenv and those pkgs don't go into the system area. that says nothing about using existing bits of the system...
+
+On March 12, 2018 6:31:47 PM PDT, Jim <jf_byrnes@comcast.net> wrote:
+>On 03/12/2018 04:04 AM, eryk sun wrote:
+>> On Mon, Mar 12, 2018@12:44 AM, Jim <jf_byrnes@comcast.net> wrote:
+>>>
+>>> home = /usr/bin
+>>> include-system-site-packages = false
+>> [...]
+>>>      resp = opener.open(request, timeout=self._timeout)
+>>>    File "/usr/lib/python3.5/urllib/request.py", line 466, in open
+>> 
+>> This is normal. Virtual environments are not isolated from the
+>standard library.
+>
+>Interesting. All I know about virtual environments is what I read on
+>the 
+>net. I always see them recommended as a way to keep from messing up the
+>
+>default python, so I thought isolation was their purpose.
+>
+>Thanks,  Jim
+>
+>
+>_______________________________________________
+>Tutor maillist  -  Tutor@python.org
+>To unsubscribe or change subscription options:
+>https://mail.python.org/mailman/listinfo/tutor
+
+-- 
+Sent from my Android device with K-9 Mail. Please excuse my brevity.
+
+From jf_byrnes@comcast.net  Tue Mar 13 17:35:02 2018
+From: jf_byrnes@comcast.net (Jim)
+Date: Tue, 13 Mar 2018 16:35:02 -0500
+Subject: [Tutor] Virtual environment question
+In-Reply-To: <CACL+1av5S9gDkjJQ8n_wM31g8Ed0mASmyuJaSOCGRS_21xTGKQ@mail.gmail.com>
+References: <p844qe$ekt$1@blaine.gmane.org>
+ <20180311225459.GA53900@cskk.homeip.net>
+ <3d862612-7923-5bb7-3e05-f6c8dc57b973@comcast.net>
+ <CACL+1avH2xm1NGtjfTA62onRq3VWv9eRHgS733zyHGO1gjcnCQ@mail.gmail.com>
+ <p879i4$eq3$1@blaine.gmane.org>
+ <CACL+1av5S9gDkjJQ8n_wM31g8Ed0mASmyuJaSOCGRS_21xTGKQ@mail.gmail.com>
+Message-ID: <p89g27$1e4$1@blaine.gmane.org>
+
+On 03/12/2018 08:44 PM, eryk sun wrote:
+> On Tue, Mar 13, 2018@1:31 AM, Jim <jf_byrnes@comcast.net> wrote:
+>> On 03/12/2018 04:04 AM, eryk sun wrote:
+>>>
+>>> On Mon, Mar 12, 2018@12:44 AM, Jim <jf_byrnes@comcast.net> wrote:
+>>>>
+>>>> home = /usr/bin
+>>>> include-system-site-packages = false
+>>>
+>>> [...]
+>>>>
+>>>>       resp = opener.open(request, timeout=self._timeout)
+>>>>     File "/usr/lib/python3.5/urllib/request.py", line 466, in open
+>>>
+>>> This is normal. Virtual environments are not isolated from the standard
+>>> library.
+>>
+>> Interesting. All I know about virtual environments is what I read on the
+>> net. I always see them recommended as a way to keep from messing up the
+>> default python, so I thought isolation was their purpose.
+> 
+> You're thinking of isolating packages that are installed in
+> site-packages, not the standard library. There's no point in copying
+> and recompiling the entire standard library in every virtual
+> environment.
+
+Just curious. So do they share parts of the standard libray? What 
+happens if the version of python I have in a virtual environment is 
+totally different than any python available from the os? Say version 3 
+vs version 2 in the os.
+
+Regards,  Jim
+
+
+
+
+From greg.johnson1@outlook.com  Wed Mar 14 14:30:04 2018
+From: greg.johnson1@outlook.com (Greg Johnson)
+Date: Wed, 14 Mar 2018 18:30:04 +0000
+Subject: [Tutor] Please unsubscribe me from thi list
+In-Reply-To: <mailman.9.1521043202.11488.tutor@python.org>
+References: <mailman.9.1521043202.11488.tutor@python.org>
+Message-ID: <DB4PR08MB0141ACE1DF34D159842FA562A5D10@DB4PR08MB0141.eurprd08.prod.outlook.com>
+
+Please unsubscribe me from thi list
+
+________________________________
+From: Tutor <tutor-bounces+greg.johnson1=outlook.com@python.org> on behalf of tutor-request@python.org <tutor-request@python.org>
+Sent: Wednesday, March 14, 2018 4:00:02 PM
+To: tutor@python.org
+Subject: Tutor Digest, Vol 169, Issue 12
+
+Send Tutor mailing list submissions to
+        tutor@python.org
+
+To subscribe or unsubscribe via the World Wide Web, visit
+        https://mail.python.org/mailman/listinfo/tutor
+or, via email, send a message with subject or body 'help' to
+        tutor-request@python.org
+
+You can reach the person managing the list at
+        tutor-owner@python.org
+
+When replying, please edit your Subject line so it is more specific
+than "Re: Contents of Tutor digest..."
+
+
+Today's Topics:
+
+   1. Re: Virtual environment question (Jim)
+
+
+----------------------------------------------------------------------
+
+Message: 1
+Date: Tue, 13 Mar 2018 16:35:02 -0500
+From: Jim <jf_byrnes@comcast.net>
+To: tutor@python.org
+Subject: Re: [Tutor] Virtual environment question
+Message-ID: <p89g27$1e4$1@blaine.gmane.org>
+Content-Type: text/plain; charset=utf-8; format=flowed
+
+On 03/12/2018 08:44 PM, eryk sun wrote:
+> On Tue, Mar 13, 2018@1:31 AM, Jim <jf_byrnes@comcast.net> wrote:
+>> On 03/12/2018 04:04 AM, eryk sun wrote:
+>>>
+>>> On Mon, Mar 12, 2018@12:44 AM, Jim <jf_byrnes@comcast.net> wrote:
+>>>>
+>>>> home = /usr/bin
+>>>> include-system-site-packages = false
+>>>
+>>> [...]
+>>>>
+>>>>       resp = opener.open(request, timeout=self._timeout)
+>>>>     File "/usr/lib/python3.5/urllib/request.py", line 466, in open
+>>>
+>>> This is normal. Virtual environments are not isolated from the standard
+>>> library.
+>>
+>> Interesting. All I know about virtual environments is what I read on the
+>> net. I always see them recommended as a way to keep from messing up the
+>> default python, so I thought isolation was their purpose.
+>
+> You're thinking of isolating packages that are installed in
+> site-packages, not the standard library. There's no point in copying
+> and recompiling the entire standard library in every virtual
+> environment.
+
+Just curious. So do they share parts of the standard libray? What
+happens if the version of python I have in a virtual environment is
+totally different than any python available from the os? Say version 3
+vs version 2 in the os.
+
+Regards,  Jim
+
+
+
+
+
+------------------------------
+
+Subject: Digest Footer
+
+_______________________________________________
+Tutor maillist  -  Tutor@python.org
+https://mail.python.org/mailman/listinfo/tutor
+
+
+------------------------------
+
+End of Tutor Digest, Vol 169, Issue 12
+**************************************
+
+From steve@pearwood.info  Thu Mar 15 07:04:05 2018
+From: steve@pearwood.info (Steven D'Aprano)
+Date: Thu, 15 Mar 2018 22:04:05 +1100
+Subject: [Tutor] Please unsubscribe me from thi list
+In-Reply-To: <DB4PR08MB0141ACE1DF34D159842FA562A5D10@DB4PR08MB0141.eurprd08.prod.outlook.com>
+References: <mailman.9.1521043202.11488.tutor@python.org>
+ <DB4PR08MB0141ACE1DF34D159842FA562A5D10@DB4PR08MB0141.eurprd08.prod.outlook.com>
+Message-ID: <20180315110404.GC16661@ando.pearwood.info>
+
+On Wed, Mar 14, 2018@06:30:04PM +0000, Greg Johnson wrote:
+
+> Please unsubscribe me from thi list
+
+At the top of each digest, it says:
+
+    To subscribe or unsubscribe via the World Wide Web, visit
+    https://mail.python.org/mailman/listinfo/tutor
+
+and then again@the bottom of each email:
+
+    To unsubscribe or change subscription options:
+    https://mail.python.org/mailman/listinfo/tutor
+
+
+You can unsubscribe yourself. I can't do it for you.
+
+All the best,
+
+
+Steve
+
+From prashanth.ram@itwgo.in  Thu Mar 15 09:42:58 2018
+From: prashanth.ram@itwgo.in (Prashanth Ram)
+Date: Thu, 15 Mar 2018 19:12:58 +0530
+Subject: [Tutor] PYTHON HELP
+Message-ID: <CADOEh04KVBGNdY5xMuTpR=SePKPHTf-ZgoggLHbxUChYN9kbHw@mail.gmail.com>
+
+Dear Sir/Madam,
+
+I'm a beginner in Python. I have written a code to open browsers using
+selenium framework. I have purchased a Virtual Private Server (VPS) with
+CentOS 6.9 installed from GoDaddy.
+
+My code is working well in localhost but when I try to open that in VPS
+server I'm failing in running that code. I'm getting errors. I have
+installed Chrome and it's drivers. Even though I'm facing errors.
+
+I request your team to help me in this. Please find the attachments
+
+Thanks & Regards,
+Prashanth R
+ITW Travel and Leisure Pvt Ltd.
+
+From preetisaxenamac@gmail.com  Thu Mar 15 12:56:52 2018
+From: preetisaxenamac@gmail.com (Preeti Saxena)
+Date: Thu, 15 Mar 2018 22:26:52 +0530
+Subject: [Tutor] Python Script Testing
+Message-ID: <CAH8C5pGDhECd0ZZz6_4Py0MVxrSj-GRkyJw9MS6wUSACd=F21g@mail.gmail.com>
+
+Hi,
+   I am new to python. I am trying to test my program, like a coursera
+submission, which takes run time arguments using "raw_input()". Is there a
+way I can write all the input data into a file and pass it from command
+line to the script?
+1. I have to use "raw_input".
+2. I do not wish to open a file inside the script as that will beat the
+purpose.
+
+Thanks for any and all the help.
+
+Thanks,
+Preeti
+
+From david@graniteweb.com  Thu Mar 15 13:35:15 2018
+From: david@graniteweb.com (David Rock)
+Date: Thu, 15 Mar 2018 12:35:15 -0500
+Subject: [Tutor] PYTHON HELP
+In-Reply-To: <CADOEh04KVBGNdY5xMuTpR=SePKPHTf-ZgoggLHbxUChYN9kbHw@mail.gmail.com>
+References: <CADOEh04KVBGNdY5xMuTpR=SePKPHTf-ZgoggLHbxUChYN9kbHw@mail.gmail.com>
+Message-ID: <A7BE1419-FC49-4DB1-ABC0-0B3B03C8D9D5@graniteweb.com>
+
+
+> On Mar 15, 2018,@08:42, Prashanth Ram <prashanth.ram@itwgo.in> wrote:
+> 
+> I'm a beginner in Python. I have written a code to open browsers using
+> selenium framework. I have purchased a Virtual Private Server (VPS) with
+> CentOS 6.9 installed from GoDaddy.
+> 
+> My code is working well in localhost but when I try to open that in VPS
+> server I'm failing in running that code. I'm getting errors. I have
+> installed Chrome and it's drivers. Even though I'm facing errors.
+> 
+> I request your team to help me in this. Please find the attachments
+> 
+
+Welcome,
+
+Your attachments did not come through.  This list generally only works with in-line text.  If you post your code, what you expect and what the errors are, we will have a better chance of helping.
+
+Being a tutor list, help with the selenium framework is not guaranteed, though.  Hopefully your issue is something basic.
+
+
+? 
+David Rock
+david@graniteweb.com
+
+
+
+
+
+From alan.gauld@yahoo.co.uk  Thu Mar 15 13:35:33 2018
+From: alan.gauld@yahoo.co.uk (Alan Gauld)
+Date: Thu, 15 Mar 2018 17:35:33 +0000
+Subject: [Tutor] PYTHON HELP
+In-Reply-To: <CADOEh04KVBGNdY5xMuTpR=SePKPHTf-ZgoggLHbxUChYN9kbHw@mail.gmail.com>
+References: <CADOEh04KVBGNdY5xMuTpR=SePKPHTf-ZgoggLHbxUChYN9kbHw@mail.gmail.com>
+Message-ID: <p8eap0$uh6$1@blaine.gmane.org>
+
+On 15/03/18 13:42, Prashanth Ram wrote:
+
+> My code is working well in localhost but when I try to open that in VPS
+> server I'm failing in running that code. I'm getting errors. I have
+> installed Chrome and it's drivers. Even though I'm facing errors.
+> 
+> I request your team to help me in this. Please find the attachments
+
+This is a text based email list so any binary attachments get stripped
+by the server for security reasons. Please send the code plus any error
+messages as text within your emails. Alternatively post images on a web
+site and send a link.
+
+-- 
+Alan G
+Author of the Learn to Program web site
+http://www.alan-g.me.uk/
+http://www.amazon.com/author/alan_gauld
+Follow my photo-blog on Flickr at:
+http://www.flickr.com/photos/alangauldphotos
+
+
+
+From alan.gauld@yahoo.co.uk  Thu Mar 15 13:41:54 2018
+From: alan.gauld@yahoo.co.uk (Alan Gauld)
+Date: Thu, 15 Mar 2018 17:41:54 +0000
+Subject: [Tutor] Python Script Testing
+In-Reply-To: <CAH8C5pGDhECd0ZZz6_4Py0MVxrSj-GRkyJw9MS6wUSACd=F21g@mail.gmail.com>
+References: <CAH8C5pGDhECd0ZZz6_4Py0MVxrSj-GRkyJw9MS6wUSACd=F21g@mail.gmail.com>
+Message-ID: <p8eb4u$m8$1@blaine.gmane.org>
+
+On 15/03/18 16:56, Preeti Saxena wrote:
+> Hi,
+>    I am new to python. I am trying to test my program, like a coursera
+> submission, which takes run time arguments using "raw_input()". Is there a
+> way I can write all the input data into a file and pass it from command
+> line to the script?
+
+In normal Python yes, you can simply pass the file name as an
+argument to the program or you can use input redirection to
+read the data from the file as if it were input by a user.
+
+Unfortunately neither of these options is likely to work in
+a web environment - one of the disadvantages of using such
+a tool. The issue is not a Python one but one with your
+tutorial. I suggest you contact the authors directly to
+ask if they can suggest a solution (or incorporate
+such a feature).
+
+> 1. I have to use "raw_input".
+> 2. I do not wish to open a file inside the script as that will beat the
+> purpose.
+
+In real-world python you could just use input redirection:
+
+########## data.txt ##########
+Alan
+##############################
+
+########## myscript.py #######
+name = raw_input("What's your name? ")
+print "Hello ", name
+##############################
+
+Executed with:
+
+$ python myscript.py < data.txt
+
+
+HTH
+-- 
+Alan G
+Author of the Learn to Program web site
+http://www.alan-g.me.uk/
+http://www.amazon.com/author/alan_gauld
+Follow my photo-blog on Flickr at:
+http://www.flickr.com/photos/alangauldphotos
+
+
+
+From akleider@sonic.net  Thu Mar 15 13:50:03 2018
+From: akleider@sonic.net (Alex Kleider)
+Date: Thu, 15 Mar 2018 10:50:03 -0700
+Subject: [Tutor] Python Script Testing
+In-Reply-To: <CAH8C5pGDhECd0ZZz6_4Py0MVxrSj-GRkyJw9MS6wUSACd=F21g@mail.gmail.com>
+References: <CAH8C5pGDhECd0ZZz6_4Py0MVxrSj-GRkyJw9MS6wUSACd=F21g@mail.gmail.com>
+Message-ID: <6f6abdade9adda07611512355d4c14ad@sonic.net>
+
+On 2018-03-15 09:56, Preeti Saxena wrote:
+> Hi,
+>    I am new to python. I am trying to test my program, like a coursera
+> submission, which takes run time arguments using "raw_input()". Is 
+> there a
+> way I can write all the input data into a file and pass it from command
+> line to the script?
+> 1. I have to use "raw_input".
+> 2. I do not wish to open a file inside the script as that will beat the
+> purpose.
+
+If you are using Linux or other UNIX like system (such as a Mac) the 
+'HERE Document' feature [1] of the OS might prove useful:
+
+# File: dummy.py
+inputs = {}
+inputs["first"] = raw_input("")
+inputs["second"] = raw_input("")
+for key in inputs.keys():
+     print inputs[key]
+
+Then from the command line:
+alex@x301n4:~$ python dummy.py << HERE
+first input
+second input
+HERE
+
+On my system[2] the result is:
+second input
+first input
+
+[1] http://tldp.org/LDP/abs/html/here-docs.html
+[2] Ubuntu 16.4LTS
+
+From alan.gauld@yahoo.co.uk  Thu Mar 15 14:53:45 2018
+From: alan.gauld@yahoo.co.uk (Alan Gauld)
+Date: Thu, 15 Mar 2018 18:53:45 +0000
+Subject: [Tutor] Python Script Testing
+In-Reply-To: <CAJY0BZaSkX22PqNfn-ZSUNfQ=mwELc-yATVKBiWNyqOYXJ-Q4A@mail.gmail.com>
+References: <CAH8C5pGDhECd0ZZz6_4Py0MVxrSj-GRkyJw9MS6wUSACd=F21g@mail.gmail.com>
+ <p8eb4u$m8$1@blaine.gmane.org>
+ <CAJY0BZaSkX22PqNfn-ZSUNfQ=mwELc-yATVKBiWNyqOYXJ-Q4A@mail.gmail.com>
+Message-ID: <0f912dc7-e67d-beec-d0b1-a90dba2fee72@yahoo.co.uk>
+
+Please always use Reply All or Reply List when responding to list emails.
+
+Farwarding to list...
+
+On 15/03/18 17:47, Gaurav Parashar wrote:
+> Opening the file inside the script seems the only possible solution.
+> As far as I remember about the coursera course, the gave the input
+> file, and we need to upload the output file, running the script on our
+> local system. So, the above method should work.
+>
+> On 15 Mar 2018 11:13 pm, "Alan Gauld via Tutor" <tutor@python.org
+> <mailto:tutor@python.org>> wrote:
+>
+>     On 15/03/18 16:56, Preeti Saxena wrote:
+>     > Hi,
+>     >? ? I am new to python. I am trying to test my program, like a
+>     coursera
+>     > submission, which takes run time arguments using "raw_input()".
+>     Is there a
+>     > way I can write all the input data into a file and pass it from
+>     command
+>     > line to the script?
+>
+>     In normal Python yes, you can simply pass the file name as an
+>     argument to the program or you can use input redirection to
+>     read the data from the file as if it were input by a user.
+>
+>     Unfortunately neither of these options is likely to work in
+>     a web environment - one of the disadvantages of using such
+>     a tool. The issue is not a Python one but one with your
+>     tutorial. I suggest you contact the authors directly to
+>     ask if they can suggest a solution (or incorporate
+>     such a feature).
+>
+>     > 1. I have to use "raw_input".
+>     > 2. I do not wish to open a file inside the script as that will
+>     beat the
+>     > purpose.
+>
+>     In real-world python you could just use input redirection:
+>
+>     ########## data.txt ##########
+>     Alan
+>     ##############################
+>
+>     ########## myscript.py #######
+>     name = raw_input("What's your name? ")
+>     print "Hello ", name
+>     ##############################
+>
+>     Executed with:
+>
+>     $ python myscript.py < data.txt
+>
+>
+>     HTH
+>     --
+>     Alan G
+>     Author of the Learn to Program web site
+>     http://www.alan-g.me.uk/
+>     http://www.amazon.com/author/alan_gauld
+>     <http://www.amazon.com/author/alan_gauld>
+>     Follow my photo-blog on Flickr at:
+>     http://www.flickr.com/photos/alangauldphotos
+>     <http://www.flickr.com/photos/alangauldphotos>
+>
+>
+>     _______________________________________________
+>     Tutor maillist? -? Tutor@python.org <mailto:Tutor@python.org>
+>     To unsubscribe or change subscription options:
+>     https://mail.python.org/mailman/listinfo/tutor
+>     <https://mail.python.org/mailman/listinfo/tutor>
+>
+
+-- 
+Alan G
+Author of the Learn to Program web site
+http://www.alan-g.me.uk/
+http://www.amazon.com/author/alan_gauld
+Follow my photo-blog on Flickr at:
+http://www.flickr.com/photos/alangauldphotos
+
+
+From mitesh.budhabhatti@gmail.com  Tue Mar 20 09:55:20 2018
+From: mitesh.budhabhatti@gmail.com (Mitesh H. Budhabhatti)
+Date: Tue, 20 Mar 2018 19:25:20 +0530
+Subject: [Tutor] Connecting to MS SQL Server
+Message-ID: <CADv7osgHqq6o166XnQRrGm2aH0dtBjTyNMVv5b9v2mBJjujpwg@mail.gmail.com>
+
+Hello,
+
+Can anybody please suggest better way to connect MS SQL Server database?
+
+Thanks!
+
+From mats@wichmann.us  Tue Mar 20 10:00:51 2018
+From: mats@wichmann.us (Mats Wichmann)
+Date: Tue, 20 Mar 2018 08:00:51 -0600
+Subject: [Tutor] Connecting to MS SQL Server
+In-Reply-To: <CADv7osgHqq6o166XnQRrGm2aH0dtBjTyNMVv5b9v2mBJjujpwg@mail.gmail.com>
+References: <CADv7osgHqq6o166XnQRrGm2aH0dtBjTyNMVv5b9v2mBJjujpwg@mail.gmail.com>
+Message-ID: <fad246ec-ba51-4f76-9294-79434a5f6546@wichmann.us>
+
+On 03/20/2018 07:55 AM, Mitesh H. Budhabhatti wrote:
+> Hello,
+> 
+> Can anybody please suggest better way to connect MS SQL Server database?
+> 
+> Thanks!
+
+
+Better than what?
+
+The standard mechanisms work fine (mysql documentation has a decent writeup)
+
+
+From mats@wichmann.us  Tue Mar 20 10:03:26 2018
+From: mats@wichmann.us (Mats Wichmann)
+Date: Tue, 20 Mar 2018 08:03:26 -0600
+Subject: [Tutor] Connecting to MS SQL Server
+In-Reply-To: <fad246ec-ba51-4f76-9294-79434a5f6546@wichmann.us>
+References: <CADv7osgHqq6o166XnQRrGm2aH0dtBjTyNMVv5b9v2mBJjujpwg@mail.gmail.com>
+ <fad246ec-ba51-4f76-9294-79434a5f6546@wichmann.us>
+Message-ID: <b3f4d7d4-ec8d-0ae4-3658-b30704549716@wichmann.us>
+
+On 03/20/2018 08:00 AM, Mats Wichmann wrote:
+> On 03/20/2018 07:55 AM, Mitesh H. Budhabhatti wrote:
+>> Hello,
+>>
+>> Can anybody please suggest better way to connect MS SQL Server database?
+>>
+>> Thanks!
+> 
+> 
+> Better than what?
+> 
+> The standard mechanisms work fine (mysql documentation has a decent writeup)
+
+Sorry, I misread your question, somehow my eyes saw mysql instead of
+mssql.  Will leave that to others to answer, don't use SQL Server.
+
+
+
+From alan.gauld@yahoo.co.uk  Tue Mar 20 10:35:01 2018
+From: alan.gauld@yahoo.co.uk (Alan Gauld)
+Date: Tue, 20 Mar 2018 14:35:01 +0000
+Subject: [Tutor] Connecting to MS SQL Server
+In-Reply-To: <CADv7osgHqq6o166XnQRrGm2aH0dtBjTyNMVv5b9v2mBJjujpwg@mail.gmail.com>
+References: <CADv7osgHqq6o166XnQRrGm2aH0dtBjTyNMVv5b9v2mBJjujpwg@mail.gmail.com>
+Message-ID: <p8r62h$cgk$1@blaine.gmane.org>
+
+On 20/03/18 13:55, Mitesh H. Budhabhatti wrote:
+> Hello,
+> 
+> Can anybody please suggest better way to connect MS SQL Server database?
+
+As Mats said, better than what?
+There are@least two "official" ways:
+1) using the SQL Server driver
+2) Using the ODBC driver.
+
+Both are described here:
+
+https://docs.microsoft.com/en-us/sql/connect/python/python-driver-for-sql-server
+
+If you are doing anything else then try these.
+If they don't work get back to us with more specific
+details.
+
+-- 
+Alan G
+Author of the Learn to Program web site
+http://www.alan-g.me.uk/
+http://www.amazon.com/author/alan_gauld
+Follow my photo-blog on Flickr at:
+http://www.flickr.com/photos/alangauldphotos
+
+
+
